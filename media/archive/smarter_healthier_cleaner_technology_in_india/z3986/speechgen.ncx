@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx
+  PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="ml">
+	  <head>
+		    <meta content="AUTO-UID-0239" name="dtb:uid"/>
+		    <meta content="1" name="dtb:depth"/>
+		
+		    <meta content="TPB Narrator" name="dtb:generator"/>
+		    <meta content="8" name="dtb:totalPageCount"/>
+		    <meta content="8" name="dtb:maxPageNumber"/>
+	     <smilCustomTest bookStruct="PAGE_NUMBER" defaultState="false" id="pagenum" override="visible"/>
+   </head>
+  
+	  <docTitle>
+	     <text>smarter_healthier_cleaner_technology_in_india</text>
+      <audio clipBegin="0:00:00" clipEnd="0:00:01" src="speechgen0001.mp3"/>
+   </docTitle>
+  
+	  <docAuthor>
+	     <text>Vikram</text>
+      <audio clipBegin="0:00:01" clipEnd="0:00:01.200" src="speechgen0001.mp3"/>
+   </docAuthor>
+	
+	  <navMap id="navMap">
+      <navPoint class="h1" id="ncx-2" playOrder="2">
+         <navLabel>
+            <text>Empty Heading</text>
+            <audio clipBegin="0:00:00" clipEnd="0:00:03" src="speechgen0002.mp3"/>
+         </navLabel>
+         <content src="speechgen0002.smil#tcp4"/>
+      </navPoint>
+   </navMap>
+	
+	  <pageList id="page">
+      <pageTarget class="pagenum" id="ncx-1" playOrder="1" type="normal" value="1">
+         <navLabel>
+            <text>1</text>
+            <audio clipBegin="0:00:01.200" clipEnd="0:00:01.400" src="speechgen0001.mp3"/>
+         </navLabel>
+         <content src="speechgen0001.smil#tcp3"/>
+      </pageTarget>
+      <pageTarget class="pagenum" id="ncx-3" playOrder="3" type="normal" value="2">
+         <navLabel>
+            <text>2</text>
+            <audio clipBegin="0:00:04.600" clipEnd="0:00:04.800" src="speechgen0002.mp3"/>
+         </navLabel>
+         <content src="speechgen0002.smil#tcp13"/>
+      </pageTarget>
+      <pageTarget class="pagenum" id="ncx-4" playOrder="4" type="normal" value="3">
+         <navLabel>
+            <text>3</text>
+            <audio clipBegin="0:00:06.200" clipEnd="0:00:06.400" src="speechgen0002.mp3"/>
+         </navLabel>
+         <content src="speechgen0002.smil#tcp21"/>
+      </pageTarget>
+      <pageTarget class="pagenum" id="ncx-5" playOrder="5" type="normal" value="4">
+         <navLabel>
+            <text>4</text>
+            <audio clipBegin="0:00:07.800" clipEnd="0:00:08" src="speechgen0002.mp3"/>
+         </navLabel>
+         <content src="speechgen0002.smil#tcp29"/>
+      </pageTarget>
+      <pageTarget class="pagenum" id="ncx-6" playOrder="6" type="normal" value="5">
+         <navLabel>
+            <text>5</text>
+            <audio clipBegin="0:00:09.200" clipEnd="0:00:09.400" src="speechgen0002.mp3"/>
+         </navLabel>
+         <content src="speechgen0002.smil#tcp36"/>
+      </pageTarget>
+      <pageTarget class="pagenum" id="ncx-7" playOrder="7" type="normal" value="6">
+         <navLabel>
+            <text>6</text>
+            <audio clipBegin="0:00:10.800" clipEnd="0:00:11" src="speechgen0002.mp3"/>
+         </navLabel>
+         <content src="speechgen0002.smil#tcp44"/>
+      </pageTarget>
+      <pageTarget class="pagenum" id="ncx-8" playOrder="8" type="normal" value="7">
+         <navLabel>
+            <text>7</text>
+            <audio clipBegin="0:00:12.400" clipEnd="0:00:12.600" src="speechgen0002.mp3"/>
+         </navLabel>
+         <content src="speechgen0002.smil#tcp52"/>
+      </pageTarget>
+      <pageTarget class="pagenum" id="ncx-9" playOrder="9" type="normal" value="8">
+         <navLabel>
+            <text>8</text>
+            <audio clipBegin="0:00:13.600" clipEnd="0:00:13.800" src="speechgen0002.mp3"/>
+         </navLabel>
+         <content src="speechgen0002.smil#tcp58"/>
+      </pageTarget>
+   </pageList>
+  
+</ncx>

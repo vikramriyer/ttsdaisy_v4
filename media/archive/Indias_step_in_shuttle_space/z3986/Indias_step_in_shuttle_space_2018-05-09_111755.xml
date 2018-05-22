@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?><!DOCTYPE dtbook PUBLIC "-//NISO//DTD dtbook 2005-3//EN" "http://www.daisy.org/z3986/2005/dtbook-2005-3.dtd"><?xml-stylesheet href='dtbook.2005.basic.css' type='text/css'?><dtbook xmlns="http://www.daisy.org/z3986/2005/dtbook/" version="2005-3" xml:lang="ml">
+	<head>
+		<meta name="dtb:uid" content="AUTO-UID-0239" />
+		<meta name="dt:version" content="2.0.0.0 Beta" />
+		<meta content="Indias_step_in_shuttle_space" name="dc:Title" />
+		<meta content="Vikram" name="dc:Creator" />
+		<meta content="2018-05-08" name="dc:Date" />
+		<meta name="dc:Publisher" content="IIIT" />
+		<meta name="dc:Identifier" content="AUTO-UID-0239" />
+		<meta name="dc:Language" content="en" />
+	</head>
+	<book showin="blp">
+		<frontmatter>
+			<doctitle id="dtb1" smilref="speechgen0001.smil#tcp1">Indias_step_in_shuttle_space</doctitle>
+			<docauthor id="dtb2" smilref="speechgen0001.smil#tcp2">Vikram</docauthor>
+		</frontmatter>
+		<bodymatter id="bodymatter_0239">
+			<level1>
+				<pagenum page="normal" smilref="speechgen0001.smil#tcp3" id="page0001">1</pagenum>
+				<h1 id="dtb3" smilref="speechgen0002.smil#tcp4">Empty Heading</h1>
+				<p><sent smilref="speechgen0002.smil#tcp5" id="dtb4">
+In the quest to make access to space cheaper, India successfully ﬂight tested
+a scale model of its own version of
+reusable space shuttle from Satish Dhawan
+Space Center in Sriharikota, off the south-eastern coast, on May 23, 2016.
+
+</sent><sent id="dtb5" smilref="speechgen0002.smil#tcp6">Weighing 1.5 tons, about one-sixth the
+actual size, the "technology demonstrator"
+resembling a small winged aircraft, was
+carried on a solid booster rocket to a
+height of 65 km. </sent><sent smilref="speechgen0002.smil#tcp7" id="dtb6">From there it began its
+descent re-entering the atmosphere at ﬁve
+times the speed of sound to land at a pre-
+determined spot in the Bay of Bengal.
+
+</sent><sent id="dtb7" smilref="speechgen0002.smil#tcp8">"In this ﬂight, critical technologies such
+as autonomous navigation, guidance
+and control, reusable thermal protection
+system and re—entry mission management
+have been successfully validated," the
+Indian Space Research Organization ISRO
+said.
+
+</sent></p>
+				<pagenum id="page0002" smilref="speechgen0002.smil#tcp9" page="normal">2</pagenum>
+				<p><sent id="dtb8" smilref="speechgen0002.smil#tcp10">
+    
+This is the ﬁrst of four test ﬂights
+planned for validating technologies like
+autonomous landing on land, powered
+cruise ﬂight, and hypersonic ﬂight using
+air—breathing propulsion, to be employed
+in the Reusable launch Vehicle (RLV) that
+ISRO hopes to develop in 10 years. </sent><sent smilref="speechgen0002.smil#tcp11" id="dtb9">"We
+still have a long way to go till we reach
+the actual RLV," ISRO chairman A.S.Kiran Kumar had told reporters before the
+launch.
+
+</sent><sent smilref="speechgen0002.smil#tcp12" id="dtb10">The Rs. 950 million ($14 million)
+program was conceived by ISRO in 2009.
+</sent><sent id="dtb11" smilref="speechgen0002.smil#tcp13">The ﬁrst test was planned for 2011 but got
+postponed several times.
+</sent></p>
+			</level1>
+		</bodymatter>
+	</book>
+</dtbook>

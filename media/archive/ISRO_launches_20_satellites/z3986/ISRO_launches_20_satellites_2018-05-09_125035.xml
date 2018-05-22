@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?><!DOCTYPE dtbook PUBLIC "-//NISO//DTD dtbook 2005-3//EN" "http://www.daisy.org/z3986/2005/dtbook-2005-3.dtd"><?xml-stylesheet href='dtbook.2005.basic.css' type='text/css'?><dtbook xmlns="http://www.daisy.org/z3986/2005/dtbook/" xml:lang="ml" version="2005-3">
+	<head>
+		<meta content="AUTO-UID-0239" name="dtb:uid" />
+		<meta name="dt:version" content="2.0.0.0 Beta" />
+		<meta name="dc:Title" content="ISRO_launches_20_satellites" />
+		<meta content="Vikram" name="dc:Creator" />
+		<meta name="dc:Date" content="2018-05-08" />
+		<meta name="dc:Publisher" content="IIIT" />
+		<meta content="AUTO-UID-0239" name="dc:Identifier" />
+		<meta name="dc:Language" content="en" />
+	</head>
+	<book showin="blp">
+		<frontmatter>
+			<doctitle id="dtb1" smilref="speechgen0001.smil#tcp1">ISRO_launches_20_satellites</doctitle>
+			<docauthor id="dtb2" smilref="speechgen0001.smil#tcp2">Vikram</docauthor>
+		</frontmatter>
+		<bodymatter id="bodymatter_0239">
+			<level1>
+				<pagenum smilref="speechgen0001.smil#tcp3" id="page0001" page="normal">1</pagenum>
+				<h1 id="dtb3" smilref="speechgen0002.smil#tcp4">Empty Heading</h1>
+				<p><sent id="dtb4" smilref="speechgen0002.smil#tcp5">
+    
+The Indian Space Research
+Organisation (ISRO) launched 20
+satellites in one go on 22 June 2016
+abroad its workhorse, the Polar Satellite
+Launch Vehicle (PSLV-C34), from the
+Sriharikota space centre in south India.
+
+</sent><sent smilref="speechgen0002.smil#tcp6" id="dtb5">The satellites include the 727.5 kg
+Cartosat-2 Series and 19 smaller copassengers. </sent><sent id="dtb6" smilref="speechgen0002.smil#tcp7">The total weight of all the 20
+satellites on-board was 1288 kg, ISRO
+sources said. </sent><sent id="dtb7" smilref="speechgen0002.smil#tcp8">This is the ﬁrst time ISRO
+ﬂew more than 10 satellites in a single
+launch. </sent><sent id="dtb8" smilref="speechgen0002.smil#tcp9">In 2008, it ﬂew 10 satellites
+together. </sent><sent smilref="speechgen0002.smil#tcp10" id="dtb9">Russia holds the world record
+for placing the most number of satellites
+- 37 -in a single launch on board its
+2014 Dnepr rocket.
+
+</sent><sent id="dtb10" smilref="speechgen0002.smil#tcp11">The star of the launch Cartosat-2 is
+expected to provide remote sensing
+services using its black and white and
+colour cameras. </sent><sent id="dtb11" smilref="speechgen0002.smil#tcp12">The imagery sent by the
+Cartosat-2 series satellite will be useful
+
+</sent></p>
+				<pagenum id="page0002" smilref="speechgen0002.smil#tcp13" page="normal">2</pagenum>
+				<p><sent id="dtb12" smilref="speechgen0002.smil#tcp14">
+    
+for cartographic applications,
+urban and rural applications,
+coastal land use and regulation.
+</sent><sent id="dtb13" smilref="speechgen0002.smil#tcp15">It will also be useful in utility
+management services such as
+road network monitoring, water
+distribution, creation of land
+use maps, land information
+system (LIS) and geographical
+information system (GIS)
+applications.
+
+</sent><sent id="dtb14" smilref="speechgen0002.smil#tcp16">Two other satellites launched
+today — Sathyabhamasat and
+Swayam — were built with help
+from students at Sathyabama
+University, Chennai and
+College of Engineering, Pune.
+</sent><sent id="dtb15" smilref="speechgen0002.smil#tcp17">They will be used for academic
+purposes. </sent><sent id="dtb16" smilref="speechgen0002.smil#tcp18">The rest of the 17 are
+international customer satellites
+from Canada, Germany,
+Indonesia and the United States,
+ISRO sources said.
+
+</sent></p>
+			</level1>
+		</bodymatter>
+	</book>
+</dtbook>

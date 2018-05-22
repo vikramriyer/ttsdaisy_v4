@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE smil
+  PUBLIC "-//NISO//DTD dtbsmil 2005-2//EN" "http://www.daisy.org/z3986/2005/dtbsmil-2005-2.dtd">
+<smil xmlns="http://www.w3.org/2001/SMIL20/">
+	  <head>
+		    <meta content="AUTO-UID-0239" name="dtb:uid"/>
+		    <meta content="TPB Narrator" name="dtb:generator"/>
+		    <meta content="0:00:05.699" name="dtb:totalElapsedTime"/>
+		    <customAttributes>
+		       <customTest defaultState="false" id="pagenum" override="visible"/>
+      </customAttributes>
+	  </head>
+	  <body>
+		    <seq dur="0:02:46.662" fill="remove" id="mseq">
+		       <par id="tcp4">
+            <text id="text4" src="OU_youth_and_TJS_party_2018-05-09_101734.xml#dtb3"/>
+            <audio clipBegin="0:00:00" clipEnd="0:00:04.241" src="speechgen0002.mp3"/>
+         </par>
+         <par id="tcp5">
+            <text id="text5" src="OU_youth_and_TJS_party_2018-05-09_101734.xml#dtb4"/>
+            <audio clipBegin="0:00:04.241" clipEnd="0:00:20.184" src="speechgen0002.mp3"/>
+         </par>
+         <par id="tcp6">
+            <text id="text6" src="OU_youth_and_TJS_party_2018-05-09_101734.xml#dtb5"/>
+            <audio clipBegin="0:00:20.184" clipEnd="0:00:32.204" src="speechgen0002.mp3"/>
+         </par>
+         <par id="tcp7">
+            <text id="text7" src="OU_youth_and_TJS_party_2018-05-09_101734.xml#dtb6"/>
+            <audio clipBegin="0:00:32.204" clipEnd="0:00:41.957" src="speechgen0002.mp3"/>
+         </par>
+         <par id="tcp8">
+            <text id="text8" src="OU_youth_and_TJS_party_2018-05-09_101734.xml#dtb7"/>
+            <audio clipBegin="0:00:41.957" clipEnd="0:00:46.485" src="speechgen0002.mp3"/>
+         </par>
+         <par id="tcp9">
+            <text id="text9" src="OU_youth_and_TJS_party_2018-05-09_101734.xml#dtb8"/>
+            <audio clipBegin="0:00:46.485" clipEnd="0:00:53.876" src="speechgen0002.mp3"/>
+         </par>
+         <par id="tcp10">
+            <text id="text10" src="OU_youth_and_TJS_party_2018-05-09_101734.xml#dtb9"/>
+            <audio clipBegin="0:00:53.876" clipEnd="0:01:01.135" src="speechgen0002.mp3"/>
+         </par>
+         <par customTest="pagenum" id="tcp11">
+            <text id="text11" src="OU_youth_and_TJS_party_2018-05-09_101734.xml#page0002"/>
+            <audio clipBegin="0:01:01.135" clipEnd="0:01:02.725" src="speechgen0002.mp3"/>
+         </par>
+         <par id="tcp12">
+            <text id="text12" src="OU_youth_and_TJS_party_2018-05-09_101734.xml#dtb10"/>
+            <audio clipBegin="0:01:02.725" clipEnd="0:01:04.094" src="speechgen0002.mp3"/>
+         </par>
+         <par id="tcp13">
+            <text id="text13" src="OU_youth_and_TJS_party_2018-05-09_101734.xml#dtb11"/>
+            <audio clipBegin="0:01:04.094" clipEnd="0:01:12.128" src="speechgen0002.mp3"/>
+         </par>
+         <par id="tcp14">
+            <text id="text14" src="OU_youth_and_TJS_party_2018-05-09_101734.xml#dtb12"/>
+            <audio clipBegin="0:01:12.128" clipEnd="0:01:19.235" src="speechgen0002.mp3"/>
+         </par>
+         <par id="tcp15">
+            <text id="text15" src="OU_youth_and_TJS_party_2018-05-09_101734.xml#dtb13"/>
+            <audio clipBegin="0:01:19.235" clipEnd="0:01:24.166" src="speechgen0002.mp3"/>
+         </par>
+         <par customTest="pagenum" id="tcp16">
+            <text id="text16" src="OU_youth_and_TJS_party_2018-05-09_101734.xml#page0003"/>
+            <audio clipBegin="0:01:24.166" clipEnd="0:01:25.753" src="speechgen0002.mp3"/>
+         </par>
+         <par id="tcp17">
+            <text id="text17" src="OU_youth_and_TJS_party_2018-05-09_101734.xml#dtb14"/>
+            <audio clipBegin="0:01:25.753" clipEnd="0:01:27.205" src="speechgen0002.mp3"/>
+         </par>
+         <par id="tcp18">
+            <text id="text18" src="OU_youth_and_TJS_party_2018-05-09_101734.xml#dtb15"/>
+            <audio clipBegin="0:01:27.205" clipEnd="0:01:41.125" src="speechgen0002.mp3"/>
+         </par>
+         <par id="tcp19">
+            <text id="text19" src="OU_youth_and_TJS_party_2018-05-09_101734.xml#dtb16"/>
+            <audio clipBegin="0:01:41.125" clipEnd="0:01:44.925" src="speechgen0002.mp3"/>
+         </par>
+         <par customTest="pagenum" id="tcp20">
+            <text id="text20" src="OU_youth_and_TJS_party_2018-05-09_101734.xml#page0004"/>
+            <audio clipBegin="0:01:44.925" clipEnd="0:01:46.554" src="speechgen0002.mp3"/>
+         </par>
+         <par id="tcp21">
+            <text id="text21" src="OU_youth_and_TJS_party_2018-05-09_101734.xml#dtb17"/>
+            <audio clipBegin="0:01:46.554" clipEnd="0:01:50.289" src="speechgen0002.mp3"/>
+         </par>
+         <par id="tcp22">
+            <text id="text22" src="OU_youth_and_TJS_party_2018-05-09_101734.xml#dtb18"/>
+            <audio clipBegin="0:01:50.289" clipEnd="0:02:00.224" src="speechgen0002.mp3"/>
+         </par>
+         <par id="tcp23">
+            <text id="text23" src="OU_youth_and_TJS_party_2018-05-09_101734.xml#dtb19"/>
+            <audio clipBegin="0:02:00.224" clipEnd="0:02:11.206" src="speechgen0002.mp3"/>
+         </par>
+         <par id="tcp24">
+            <text id="text24" src="OU_youth_and_TJS_party_2018-05-09_101734.xml#dtb20"/>
+            <audio clipBegin="0:02:11.206" clipEnd="0:02:17.888" src="speechgen0002.mp3"/>
+         </par>
+         <par id="tcp25">
+            <text id="text25" src="OU_youth_and_TJS_party_2018-05-09_101734.xml#dtb21"/>
+            <audio clipBegin="0:02:17.888" clipEnd="0:02:24.352" src="speechgen0002.mp3"/>
+         </par>
+         <par id="tcp26">
+            <text id="text26" src="OU_youth_and_TJS_party_2018-05-09_101734.xml#dtb22"/>
+            <audio clipBegin="0:02:24.352" clipEnd="0:02:25.849" src="speechgen0002.mp3"/>
+         </par>
+         <par id="tcp27">
+            <text id="text27" src="OU_youth_and_TJS_party_2018-05-09_101734.xml#dtb23"/>
+            <audio clipBegin="0:02:25.849" clipEnd="0:02:39.032" src="speechgen0002.mp3"/>
+         </par>
+         <par id="tcp28">
+            <text id="text28" src="OU_youth_and_TJS_party_2018-05-09_101734.xml#dtb24"/>
+            <audio clipBegin="0:02:39.032" clipEnd="0:02:40.696" src="speechgen0002.mp3"/>
+         </par>
+         <par id="tcp29">
+            <text id="text29" src="OU_youth_and_TJS_party_2018-05-09_101734.xml#dtb25"/>
+            <audio clipBegin="0:02:40.696" clipEnd="0:02:46.662" src="speechgen0002.mp3"/>
+         </par>
+      </seq>
+	  </body>
+</smil>

@@ -1,0 +1,2317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE smil
+  PUBLIC "-//NISO//DTD dtbsmil 2005-2//EN" "http://www.daisy.org/z3986/2005/dtbsmil-2005-2.dtd">
+<smil xmlns="http://www.w3.org/2001/SMIL20/">
+	  <head>
+		    <meta content="AUTO-UID-0239" name="dtb:uid"/>
+		    <meta content="TPB Narrator" name="dtb:generator"/>
+		    <meta content="2:08:28.642" name="dtb:totalElapsedTime"/>
+		    <customAttributes>
+		       <customTest defaultState="false" id="pagenum" override="visible"/>
+      </customAttributes>
+	  </head>
+	  <body>
+		    <seq dur="0:32:43.885" fill="remove" id="mseq">
+		       <par id="tcp2215">
+            <text id="text2215" src="janmadinam.xml#dtb2141"/>
+            <audio clipBegin="0:00:00" clipEnd="0:00:04.775" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2216">
+            <text id="text2216" src="janmadinam.xml#dtb2142"/>
+            <audio clipBegin="0:00:04.775" clipEnd="0:00:09.445" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2217">
+            <text id="text2217" src="janmadinam.xml#dtb2143"/>
+            <audio clipBegin="0:00:09.445" clipEnd="0:00:13.182" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2218">
+            <text id="text2218" src="janmadinam.xml#dtb2144"/>
+            <audio clipBegin="0:00:13.182" clipEnd="0:00:14.390" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2219">
+            <text id="text2219" src="janmadinam.xml#dtb2145"/>
+            <audio clipBegin="0:00:14.390" clipEnd="0:00:17.888" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2220">
+            <text id="text2220" src="janmadinam.xml#dtb2146"/>
+            <audio clipBegin="0:00:17.888" clipEnd="0:00:19.287" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2221">
+            <text id="text2221" src="janmadinam.xml#dtb2147"/>
+            <audio clipBegin="0:00:19.287" clipEnd="0:00:23.612" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2222">
+            <text id="text2222" src="janmadinam.xml#dtb2148"/>
+            <audio clipBegin="0:00:23.612" clipEnd="0:00:27.222" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2223">
+            <text id="text2223" src="janmadinam.xml#dtb2149"/>
+            <audio clipBegin="0:00:27.222" clipEnd="0:00:30.587" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2224">
+            <text id="text2224" src="janmadinam.xml#dtb2150"/>
+            <audio clipBegin="0:00:30.587" clipEnd="0:00:34.756" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2225">
+            <text id="text2225" src="janmadinam.xml#dtb2151"/>
+            <audio clipBegin="0:00:34.756" clipEnd="0:00:38.842" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2226">
+            <text id="text2226" src="janmadinam.xml#dtb2152"/>
+            <audio clipBegin="0:00:38.842" clipEnd="0:00:44.990" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2227">
+            <text id="text2227" src="janmadinam.xml#dtb2153"/>
+            <audio clipBegin="0:00:44.990" clipEnd="0:00:47.267" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2228">
+            <text id="text2228" src="janmadinam.xml#dtb2154"/>
+            <audio clipBegin="0:00:47.267" clipEnd="0:00:53.026" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2229">
+            <text id="text2229" src="janmadinam.xml#dtb2155"/>
+            <audio clipBegin="0:00:53.026" clipEnd="0:00:54.427" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2230">
+            <text id="text2230" src="janmadinam.xml#dtb2156"/>
+            <audio clipBegin="0:00:54.427" clipEnd="0:00:56.999" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2231">
+            <text id="text2231" src="janmadinam.xml#dtb2157"/>
+            <audio clipBegin="0:00:56.999" clipEnd="0:00:59.520" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2232">
+            <text id="text2232" src="janmadinam.xml#dtb2158"/>
+            <audio clipBegin="0:00:59.520" clipEnd="0:01:02.417" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2233">
+            <text id="text2233" src="janmadinam.xml#dtb2159"/>
+            <audio clipBegin="0:01:02.417" clipEnd="0:01:04.507" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2234">
+            <text id="text2234" src="janmadinam.xml#dtb2160"/>
+            <audio clipBegin="0:01:04.507" clipEnd="0:01:09.810" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2235">
+            <text id="text2235" src="janmadinam.xml#dtb2161"/>
+            <audio clipBegin="0:01:09.810" clipEnd="0:01:12.778" src="speechgen0010.mp3"/>
+         </par>
+         <par customTest="pagenum" id="tcp2236">
+            <text id="text2236" src="janmadinam.xml#page0080"/>
+            <audio clipBegin="0:01:12.778" clipEnd="0:01:14.931" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2237">
+            <text id="text2237" src="janmadinam.xml#dtb2162"/>
+            <audio clipBegin="0:01:14.931" clipEnd="0:01:16.442" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2238">
+            <text id="text2238" src="janmadinam.xml#dtb2163"/>
+            <audio clipBegin="0:01:16.442" clipEnd="0:01:17.909" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2239">
+            <text id="text2239" src="janmadinam.xml#dtb2164"/>
+            <audio clipBegin="0:01:17.909" clipEnd="0:01:19.398" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2240">
+            <text id="text2240" src="janmadinam.xml#dtb2165"/>
+            <audio clipBegin="0:01:19.398" clipEnd="0:01:21.640" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2241">
+            <text id="text2241" src="janmadinam.xml#dtb2166"/>
+            <audio clipBegin="0:01:21.640" clipEnd="0:01:24.946" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2242">
+            <text id="text2242" src="janmadinam.xml#dtb2167"/>
+            <audio clipBegin="0:01:24.946" clipEnd="0:01:27.342" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2243">
+            <text id="text2243" src="janmadinam.xml#dtb2168"/>
+            <audio clipBegin="0:01:27.342" clipEnd="0:01:34.637" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2244">
+            <text id="text2244" src="janmadinam.xml#dtb2169"/>
+            <audio clipBegin="0:01:34.637" clipEnd="0:01:37.777" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2245">
+            <text id="text2245" src="janmadinam.xml#dtb2170"/>
+            <audio clipBegin="0:01:37.777" clipEnd="0:01:45.346" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2246">
+            <text id="text2246" src="janmadinam.xml#dtb2171"/>
+            <audio clipBegin="0:01:45.346" clipEnd="0:01:51.031" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2247">
+            <text id="text2247" src="janmadinam.xml#dtb2172"/>
+            <audio clipBegin="0:01:51.031" clipEnd="0:01:53.050" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2248">
+            <text id="text2248" src="janmadinam.xml#dtb2173"/>
+            <audio clipBegin="0:01:53.050" clipEnd="0:01:55.374" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2249">
+            <text id="text2249" src="janmadinam.xml#dtb2174"/>
+            <audio clipBegin="0:01:55.374" clipEnd="0:01:57.640" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2250">
+            <text id="text2250" src="janmadinam.xml#dtb2175"/>
+            <audio clipBegin="0:01:57.640" clipEnd="0:02:02.132" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2251">
+            <text id="text2251" src="janmadinam.xml#dtb2176"/>
+            <audio clipBegin="0:02:02.132" clipEnd="0:02:05.367" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2252">
+            <text id="text2252" src="janmadinam.xml#dtb2177"/>
+            <audio clipBegin="0:02:05.367" clipEnd="0:02:10.338" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2253">
+            <text id="text2253" src="janmadinam.xml#dtb2178"/>
+            <audio clipBegin="0:02:10.338" clipEnd="0:02:13.880" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2254">
+            <text id="text2254" src="janmadinam.xml#dtb2179"/>
+            <audio clipBegin="0:02:13.880" clipEnd="0:02:15.975" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2255">
+            <text id="text2255" src="janmadinam.xml#dtb2180"/>
+            <audio clipBegin="0:02:15.975" clipEnd="0:02:17.731" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2256">
+            <text id="text2256" src="janmadinam.xml#dtb2181"/>
+            <audio clipBegin="0:02:17.731" clipEnd="0:02:20.034" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2257">
+            <text id="text2257" src="janmadinam.xml#dtb2182"/>
+            <audio clipBegin="0:02:20.034" clipEnd="0:02:21.472" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2258">
+            <text id="text2258" src="janmadinam.xml#dtb2183"/>
+            <audio clipBegin="0:02:21.472" clipEnd="0:02:23.091" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2259">
+            <text id="text2259" src="janmadinam.xml#dtb2184"/>
+            <audio clipBegin="0:02:23.091" clipEnd="0:02:25.706" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2260">
+            <text id="text2260" src="janmadinam.xml#dtb2185"/>
+            <audio clipBegin="0:02:25.706" clipEnd="0:02:27.972" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2261">
+            <text id="text2261" src="janmadinam.xml#dtb2186"/>
+            <audio clipBegin="0:02:27.972" clipEnd="0:02:30.282" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2262">
+            <text id="text2262" src="janmadinam.xml#dtb2187"/>
+            <audio clipBegin="0:02:30.282" clipEnd="0:02:33.433" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2263">
+            <text id="text2263" src="janmadinam.xml#dtb2188"/>
+            <audio clipBegin="0:02:33.433" clipEnd="0:02:41.189" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2264">
+            <text id="text2264" src="janmadinam.xml#dtb2189"/>
+            <audio clipBegin="0:02:41.189" clipEnd="0:02:45.097" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2265">
+            <text id="text2265" src="janmadinam.xml#dtb2190"/>
+            <audio clipBegin="0:02:45.097" clipEnd="0:02:49.694" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2266">
+            <text id="text2266" src="janmadinam.xml#dtb2191"/>
+            <audio clipBegin="0:02:49.694" clipEnd="0:02:52.770" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2267">
+            <text id="text2267" src="janmadinam.xml#dtb2192"/>
+            <audio clipBegin="0:02:52.770" clipEnd="0:02:55.514" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2268">
+            <text id="text2268" src="janmadinam.xml#dtb2193"/>
+            <audio clipBegin="0:02:55.514" clipEnd="0:02:58.436" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2269">
+            <text id="text2269" src="janmadinam.xml#dtb2194"/>
+            <audio clipBegin="0:02:58.436" clipEnd="0:03:00.108" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2270">
+            <text id="text2270" src="janmadinam.xml#dtb2195"/>
+            <audio clipBegin="0:03:00.108" clipEnd="0:03:02.637" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2271">
+            <text id="text2271" src="janmadinam.xml#dtb2196"/>
+            <audio clipBegin="0:03:02.637" clipEnd="0:03:06.492" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2272">
+            <text id="text2272" src="janmadinam.xml#dtb2197"/>
+            <audio clipBegin="0:03:06.492" clipEnd="0:03:09.857" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2273">
+            <text id="text2273" src="janmadinam.xml#dtb2198"/>
+            <audio clipBegin="0:03:09.857" clipEnd="0:03:12.171" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2274">
+            <text id="text2274" src="janmadinam.xml#dtb2199"/>
+            <audio clipBegin="0:03:12.171" clipEnd="0:03:15.730" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2275">
+            <text id="text2275" src="janmadinam.xml#dtb2200"/>
+            <audio clipBegin="0:03:15.730" clipEnd="0:03:18.591" src="speechgen0010.mp3"/>
+         </par>
+         <par customTest="pagenum" id="tcp2276">
+            <text id="text2276" src="janmadinam.xml#page0081"/>
+            <audio clipBegin="0:03:18.591" clipEnd="0:03:20.589" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2277">
+            <text id="text2277" src="janmadinam.xml#dtb2201"/>
+            <audio clipBegin="0:03:20.589" clipEnd="0:03:26.252" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2278">
+            <text id="text2278" src="janmadinam.xml#dtb2202"/>
+            <audio clipBegin="0:03:26.252" clipEnd="0:03:31.663" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2279">
+            <text id="text2279" src="janmadinam.xml#dtb2203"/>
+            <audio clipBegin="0:03:31.663" clipEnd="0:03:34.882" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2280">
+            <text id="text2280" src="janmadinam.xml#dtb2204"/>
+            <audio clipBegin="0:03:34.882" clipEnd="0:03:38.599" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2281">
+            <text id="text2281" src="janmadinam.xml#dtb2205"/>
+            <audio clipBegin="0:03:38.599" clipEnd="0:03:48.659" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2282">
+            <text id="text2282" src="janmadinam.xml#dtb2206"/>
+            <audio clipBegin="0:03:48.659" clipEnd="0:03:51.829" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2283">
+            <text id="text2283" src="janmadinam.xml#dtb2207"/>
+            <audio clipBegin="0:03:51.829" clipEnd="0:03:55.210" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2284">
+            <text id="text2284" src="janmadinam.xml#dtb2208"/>
+            <audio clipBegin="0:03:55.210" clipEnd="0:04:00.105" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2285">
+            <text id="text2285" src="janmadinam.xml#dtb2209"/>
+            <audio clipBegin="0:04:00.105" clipEnd="0:04:01.665" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2286">
+            <text id="text2286" src="janmadinam.xml#dtb2210"/>
+            <audio clipBegin="0:04:01.665" clipEnd="0:04:04.283" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2287">
+            <text id="text2287" src="janmadinam.xml#dtb2211"/>
+            <audio clipBegin="0:04:04.283" clipEnd="0:04:07.339" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2288">
+            <text id="text2288" src="janmadinam.xml#dtb2212"/>
+            <audio clipBegin="0:04:07.339" clipEnd="0:04:08.961" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2289">
+            <text id="text2289" src="janmadinam.xml#dtb2213"/>
+            <audio clipBegin="0:04:08.961" clipEnd="0:04:11.992" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2290">
+            <text id="text2290" src="janmadinam.xml#dtb2214"/>
+            <audio clipBegin="0:04:11.992" clipEnd="0:04:15.252" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2291">
+            <text id="text2291" src="janmadinam.xml#dtb2215"/>
+            <audio clipBegin="0:04:15.252" clipEnd="0:04:18.006" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2292">
+            <text id="text2292" src="janmadinam.xml#dtb2216"/>
+            <audio clipBegin="0:04:18.006" clipEnd="0:04:23.119" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2293">
+            <text id="text2293" src="janmadinam.xml#dtb2217"/>
+            <audio clipBegin="0:04:23.119" clipEnd="0:04:26.178" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2294">
+            <text id="text2294" src="janmadinam.xml#dtb2218"/>
+            <audio clipBegin="0:04:26.178" clipEnd="0:04:29.306" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2295">
+            <text id="text2295" src="janmadinam.xml#dtb2219"/>
+            <audio clipBegin="0:04:29.306" clipEnd="0:04:33.912" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2296">
+            <text id="text2296" src="janmadinam.xml#dtb2220"/>
+            <audio clipBegin="0:04:33.912" clipEnd="0:04:37.747" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2297">
+            <text id="text2297" src="janmadinam.xml#dtb2221"/>
+            <audio clipBegin="0:04:37.747" clipEnd="0:04:42.458" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2298">
+            <text id="text2298" src="janmadinam.xml#dtb2222"/>
+            <audio clipBegin="0:04:42.458" clipEnd="0:04:46.679" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2299">
+            <text id="text2299" src="janmadinam.xml#dtb2223"/>
+            <audio clipBegin="0:04:46.679" clipEnd="0:04:51.191" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2300">
+            <text id="text2300" src="janmadinam.xml#dtb2224"/>
+            <audio clipBegin="0:04:51.191" clipEnd="0:04:53.775" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2301">
+            <text id="text2301" src="janmadinam.xml#dtb2225"/>
+            <audio clipBegin="0:04:53.775" clipEnd="0:04:57.157" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2302">
+            <text id="text2302" src="janmadinam.xml#dtb2226"/>
+            <audio clipBegin="0:04:57.157" clipEnd="0:05:00.878" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2303">
+            <text id="text2303" src="janmadinam.xml#dtb2227"/>
+            <audio clipBegin="0:05:00.878" clipEnd="0:05:04.091" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2304">
+            <text id="text2304" src="janmadinam.xml#dtb2228"/>
+            <audio clipBegin="0:05:04.091" clipEnd="0:05:09.161" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2305">
+            <text id="text2305" src="janmadinam.xml#dtb2229"/>
+            <audio clipBegin="0:05:09.161" clipEnd="0:05:10.565" src="speechgen0010.mp3"/>
+         </par>
+         <par customTest="pagenum" id="tcp2306">
+            <text id="text2306" src="janmadinam.xml#page0082"/>
+            <audio clipBegin="0:05:10.565" clipEnd="0:05:12.674" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2307">
+            <text id="text2307" src="janmadinam.xml#dtb2230"/>
+            <audio clipBegin="0:05:12.674" clipEnd="0:05:15.578" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2308">
+            <text id="text2308" src="janmadinam.xml#dtb2231"/>
+            <audio clipBegin="0:05:15.578" clipEnd="0:05:18.627" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2309">
+            <text id="text2309" src="janmadinam.xml#dtb2232"/>
+            <audio clipBegin="0:05:18.627" clipEnd="0:05:22.902" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2310">
+            <text id="text2310" src="janmadinam.xml#dtb2233"/>
+            <audio clipBegin="0:05:22.902" clipEnd="0:05:25.096" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2311">
+            <text id="text2311" src="janmadinam.xml#dtb2234"/>
+            <audio clipBegin="0:05:25.096" clipEnd="0:05:29.053" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2312">
+            <text id="text2312" src="janmadinam.xml#dtb2235"/>
+            <audio clipBegin="0:05:29.053" clipEnd="0:05:31.847" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2313">
+            <text id="text2313" src="janmadinam.xml#dtb2236"/>
+            <audio clipBegin="0:05:31.847" clipEnd="0:05:36.298" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2314">
+            <text id="text2314" src="janmadinam.xml#dtb2237"/>
+            <audio clipBegin="0:05:36.298" clipEnd="0:05:40.969" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2315">
+            <text id="text2315" src="janmadinam.xml#dtb2238"/>
+            <audio clipBegin="0:05:40.969" clipEnd="0:05:45.931" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2316">
+            <text id="text2316" src="janmadinam.xml#dtb2239"/>
+            <audio clipBegin="0:05:45.931" clipEnd="0:05:47.339" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2317">
+            <text id="text2317" src="janmadinam.xml#dtb2240"/>
+            <audio clipBegin="0:05:47.339" clipEnd="0:05:50.959" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2318">
+            <text id="text2318" src="janmadinam.xml#dtb2241"/>
+            <audio clipBegin="0:05:50.959" clipEnd="0:05:59.053" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2319">
+            <text id="text2319" src="janmadinam.xml#dtb2242"/>
+            <audio clipBegin="0:05:59.053" clipEnd="0:06:01.475" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2320">
+            <text id="text2320" src="janmadinam.xml#dtb2243"/>
+            <audio clipBegin="0:06:01.475" clipEnd="0:06:04.512" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2321">
+            <text id="text2321" src="janmadinam.xml#dtb2244"/>
+            <audio clipBegin="0:06:04.512" clipEnd="0:06:09.295" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2322">
+            <text id="text2322" src="janmadinam.xml#dtb2245"/>
+            <audio clipBegin="0:06:09.295" clipEnd="0:06:12.808" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2323">
+            <text id="text2323" src="janmadinam.xml#dtb2246"/>
+            <audio clipBegin="0:06:12.808" clipEnd="0:06:15.616" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2324">
+            <text id="text2324" src="janmadinam.xml#dtb2247"/>
+            <audio clipBegin="0:06:15.616" clipEnd="0:06:20.169" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2325">
+            <text id="text2325" src="janmadinam.xml#dtb2248"/>
+            <audio clipBegin="0:06:20.169" clipEnd="0:06:24.075" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2326">
+            <text id="text2326" src="janmadinam.xml#dtb2249"/>
+            <audio clipBegin="0:06:24.075" clipEnd="0:06:27.037" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2327">
+            <text id="text2327" src="janmadinam.xml#dtb2250"/>
+            <audio clipBegin="0:06:27.037" clipEnd="0:06:30.403" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2328">
+            <text id="text2328" src="janmadinam.xml#dtb2251"/>
+            <audio clipBegin="0:06:30.403" clipEnd="0:06:34.760" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2329">
+            <text id="text2329" src="janmadinam.xml#dtb2252"/>
+            <audio clipBegin="0:06:34.760" clipEnd="0:06:39.780" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2330">
+            <text id="text2330" src="janmadinam.xml#dtb2253"/>
+            <audio clipBegin="0:06:39.780" clipEnd="0:06:42.644" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2331">
+            <text id="text2331" src="janmadinam.xml#dtb2254"/>
+            <audio clipBegin="0:06:42.644" clipEnd="0:06:46.915" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2332">
+            <text id="text2332" src="janmadinam.xml#dtb2255"/>
+            <audio clipBegin="0:06:46.915" clipEnd="0:06:50.116" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2333">
+            <text id="text2333" src="janmadinam.xml#dtb2256"/>
+            <audio clipBegin="0:06:50.116" clipEnd="0:06:54.206" src="speechgen0010.mp3"/>
+         </par>
+         <par customTest="pagenum" id="tcp2334">
+            <text id="text2334" src="janmadinam.xml#page0083"/>
+            <audio clipBegin="0:06:54.206" clipEnd="0:06:55.745" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2335">
+            <text id="text2335" src="janmadinam.xml#dtb2257"/>
+            <audio clipBegin="0:06:55.745" clipEnd="0:07:00.115" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2336">
+            <text id="text2336" src="janmadinam.xml#dtb2258"/>
+            <audio clipBegin="0:07:00.115" clipEnd="0:07:03.694" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2337">
+            <text id="text2337" src="janmadinam.xml#dtb2259"/>
+            <audio clipBegin="0:07:03.694" clipEnd="0:07:07.802" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2338">
+            <text id="text2338" src="janmadinam.xml#dtb2260"/>
+            <audio clipBegin="0:07:07.802" clipEnd="0:07:10.146" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2339">
+            <text id="text2339" src="janmadinam.xml#dtb2261"/>
+            <audio clipBegin="0:07:10.146" clipEnd="0:07:13.182" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2340">
+            <text id="text2340" src="janmadinam.xml#dtb2262"/>
+            <audio clipBegin="0:07:13.182" clipEnd="0:07:15.771" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2341">
+            <text id="text2341" src="janmadinam.xml#dtb2263"/>
+            <audio clipBegin="0:07:15.771" clipEnd="0:07:20.687" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2342">
+            <text id="text2342" src="janmadinam.xml#dtb2264"/>
+            <audio clipBegin="0:07:20.687" clipEnd="0:07:22.296" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2343">
+            <text id="text2343" src="janmadinam.xml#dtb2265"/>
+            <audio clipBegin="0:07:22.296" clipEnd="0:07:25.837" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2344">
+            <text id="text2344" src="janmadinam.xml#dtb2266"/>
+            <audio clipBegin="0:07:25.837" clipEnd="0:07:31.629" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2345">
+            <text id="text2345" src="janmadinam.xml#dtb2267"/>
+            <audio clipBegin="0:07:31.629" clipEnd="0:07:35.764" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2346">
+            <text id="text2346" src="janmadinam.xml#dtb2268"/>
+            <audio clipBegin="0:07:35.764" clipEnd="0:07:43.980" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2347">
+            <text id="text2347" src="janmadinam.xml#dtb2269"/>
+            <audio clipBegin="0:07:43.980" clipEnd="0:07:47.128" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2348">
+            <text id="text2348" src="janmadinam.xml#dtb2270"/>
+            <audio clipBegin="0:07:47.128" clipEnd="0:07:49.658" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2349">
+            <text id="text2349" src="janmadinam.xml#dtb2271"/>
+            <audio clipBegin="0:07:49.658" clipEnd="0:07:53.312" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2350">
+            <text id="text2350" src="janmadinam.xml#dtb2272"/>
+            <audio clipBegin="0:07:53.312" clipEnd="0:07:55.071" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2351">
+            <text id="text2351" src="janmadinam.xml#dtb2273"/>
+            <audio clipBegin="0:07:55.071" clipEnd="0:07:56.389" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2352">
+            <text id="text2352" src="janmadinam.xml#dtb2274"/>
+            <audio clipBegin="0:07:56.389" clipEnd="0:07:58.531" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2353">
+            <text id="text2353" src="janmadinam.xml#dtb2275"/>
+            <audio clipBegin="0:07:58.531" clipEnd="0:08:00.093" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2354">
+            <text id="text2354" src="janmadinam.xml#dtb2276"/>
+            <audio clipBegin="0:08:00.093" clipEnd="0:08:03.138" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2355">
+            <text id="text2355" src="janmadinam.xml#dtb2277"/>
+            <audio clipBegin="0:08:03.138" clipEnd="0:08:05.700" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2356">
+            <text id="text2356" src="janmadinam.xml#dtb2278"/>
+            <audio clipBegin="0:08:05.700" clipEnd="0:08:09.395" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2357">
+            <text id="text2357" src="janmadinam.xml#dtb2279"/>
+            <audio clipBegin="0:08:09.395" clipEnd="0:08:13.720" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2358">
+            <text id="text2358" src="janmadinam.xml#dtb2280"/>
+            <audio clipBegin="0:08:13.720" clipEnd="0:08:17.330" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2359">
+            <text id="text2359" src="janmadinam.xml#dtb2281"/>
+            <audio clipBegin="0:08:17.330" clipEnd="0:08:18.768" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2360">
+            <text id="text2360" src="janmadinam.xml#dtb2282"/>
+            <audio clipBegin="0:08:18.768" clipEnd="0:08:20.673" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2361">
+            <text id="text2361" src="janmadinam.xml#dtb2283"/>
+            <audio clipBegin="0:08:20.673" clipEnd="0:08:22.544" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2362">
+            <text id="text2362" src="janmadinam.xml#dtb2284"/>
+            <audio clipBegin="0:08:22.544" clipEnd="0:08:24.084" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2363">
+            <text id="text2363" src="janmadinam.xml#dtb2285"/>
+            <audio clipBegin="0:08:24.084" clipEnd="0:08:26.648" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2364">
+            <text id="text2364" src="janmadinam.xml#dtb2286"/>
+            <audio clipBegin="0:08:26.648" clipEnd="0:08:28.672" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2365">
+            <text id="text2365" src="janmadinam.xml#dtb2287"/>
+            <audio clipBegin="0:08:28.672" clipEnd="0:08:31.687" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2366">
+            <text id="text2366" src="janmadinam.xml#dtb2288"/>
+            <audio clipBegin="0:08:31.687" clipEnd="0:08:33.956" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2367">
+            <text id="text2367" src="janmadinam.xml#dtb2289"/>
+            <audio clipBegin="0:08:33.956" clipEnd="0:08:37.417" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2368">
+            <text id="text2368" src="janmadinam.xml#dtb2290"/>
+            <audio clipBegin="0:08:37.417" clipEnd="0:08:39.171" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2369">
+            <text id="text2369" src="janmadinam.xml#dtb2291"/>
+            <audio clipBegin="0:08:39.171" clipEnd="0:08:44.765" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2370">
+            <text id="text2370" src="janmadinam.xml#dtb2292"/>
+            <audio clipBegin="0:08:44.765" clipEnd="0:08:46.911" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2371">
+            <text id="text2371" src="janmadinam.xml#dtb2293"/>
+            <audio clipBegin="0:08:46.911" clipEnd="0:08:48.660" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2372">
+            <text id="text2372" src="janmadinam.xml#dtb2294"/>
+            <audio clipBegin="0:08:48.660" clipEnd="0:08:51.790" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2373">
+            <text id="text2373" src="janmadinam.xml#dtb2295"/>
+            <audio clipBegin="0:08:51.790" clipEnd="0:08:54.989" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2374">
+            <text id="text2374" src="janmadinam.xml#dtb2296"/>
+            <audio clipBegin="0:08:54.989" clipEnd="0:08:57.893" src="speechgen0010.mp3"/>
+         </par>
+         <par customTest="pagenum" id="tcp2375">
+            <text id="text2375" src="janmadinam.xml#page0084"/>
+            <audio clipBegin="0:08:57.893" clipEnd="0:08:59.649" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2376">
+            <text id="text2376" src="janmadinam.xml#dtb2297"/>
+            <audio clipBegin="0:08:59.649" clipEnd="0:09:04.104" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2377">
+            <text id="text2377" src="janmadinam.xml#dtb2298"/>
+            <audio clipBegin="0:09:04.104" clipEnd="0:09:05.424" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2378">
+            <text id="text2378" src="janmadinam.xml#dtb2299"/>
+            <audio clipBegin="0:09:05.424" clipEnd="0:09:08.098" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2379">
+            <text id="text2379" src="janmadinam.xml#dtb2300"/>
+            <audio clipBegin="0:09:08.098" clipEnd="0:09:12.577" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2380">
+            <text id="text2380" src="janmadinam.xml#dtb2301"/>
+            <audio clipBegin="0:09:12.577" clipEnd="0:09:16.373" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2381">
+            <text id="text2381" src="janmadinam.xml#dtb2302"/>
+            <audio clipBegin="0:09:16.373" clipEnd="0:09:19.092" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2382">
+            <text id="text2382" src="janmadinam.xml#dtb2303"/>
+            <audio clipBegin="0:09:19.092" clipEnd="0:09:21.677" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2383">
+            <text id="text2383" src="janmadinam.xml#dtb2304"/>
+            <audio clipBegin="0:09:21.677" clipEnd="0:09:25.391" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2384">
+            <text id="text2384" src="janmadinam.xml#dtb2305"/>
+            <audio clipBegin="0:09:25.391" clipEnd="0:09:27.852" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2385">
+            <text id="text2385" src="janmadinam.xml#dtb2306"/>
+            <audio clipBegin="0:09:27.852" clipEnd="0:09:30.162" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2386">
+            <text id="text2386" src="janmadinam.xml#dtb2307"/>
+            <audio clipBegin="0:09:30.162" clipEnd="0:09:32.543" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2387">
+            <text id="text2387" src="janmadinam.xml#dtb2308"/>
+            <audio clipBegin="0:09:32.543" clipEnd="0:09:37.075" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2388">
+            <text id="text2388" src="janmadinam.xml#dtb2309"/>
+            <audio clipBegin="0:09:37.075" clipEnd="0:09:39.407" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2389">
+            <text id="text2389" src="janmadinam.xml#dtb2310"/>
+            <audio clipBegin="0:09:39.407" clipEnd="0:09:42.240" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2390">
+            <text id="text2390" src="janmadinam.xml#dtb2311"/>
+            <audio clipBegin="0:09:42.240" clipEnd="0:09:45.313" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2391">
+            <text id="text2391" src="janmadinam.xml#dtb2312"/>
+            <audio clipBegin="0:09:45.313" clipEnd="0:09:47.316" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2392">
+            <text id="text2392" src="janmadinam.xml#dtb2313"/>
+            <audio clipBegin="0:09:47.316" clipEnd="0:09:49.224" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2393">
+            <text id="text2393" src="janmadinam.xml#dtb2314"/>
+            <audio clipBegin="0:09:49.224" clipEnd="0:09:51.007" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2394">
+            <text id="text2394" src="janmadinam.xml#dtb2315"/>
+            <audio clipBegin="0:09:51.007" clipEnd="0:09:56.579" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2395">
+            <text id="text2395" src="janmadinam.xml#dtb2316"/>
+            <audio clipBegin="0:09:56.579" clipEnd="0:10:01.025" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2396">
+            <text id="text2396" src="janmadinam.xml#dtb2317"/>
+            <audio clipBegin="0:10:01.025" clipEnd="0:10:06.081" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2397">
+            <text id="text2397" src="janmadinam.xml#dtb2318"/>
+            <audio clipBegin="0:10:06.081" clipEnd="0:10:08.598" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2398">
+            <text id="text2398" src="janmadinam.xml#dtb2319"/>
+            <audio clipBegin="0:10:08.598" clipEnd="0:10:11.245" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2399">
+            <text id="text2399" src="janmadinam.xml#dtb2320"/>
+            <audio clipBegin="0:10:11.245" clipEnd="0:10:14.407" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2400">
+            <text id="text2400" src="janmadinam.xml#dtb2321"/>
+            <audio clipBegin="0:10:14.407" clipEnd="0:10:16.775" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2401">
+            <text id="text2401" src="janmadinam.xml#dtb2322"/>
+            <audio clipBegin="0:10:16.775" clipEnd="0:10:21.875" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2402">
+            <text id="text2402" src="janmadinam.xml#dtb2323"/>
+            <audio clipBegin="0:10:21.875" clipEnd="0:10:25.955" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2403">
+            <text id="text2403" src="janmadinam.xml#dtb2324"/>
+            <audio clipBegin="0:10:25.955" clipEnd="0:10:27.609" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2404">
+            <text id="text2404" src="janmadinam.xml#dtb2325"/>
+            <audio clipBegin="0:10:27.609" clipEnd="0:10:29.331" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2405">
+            <text id="text2405" src="janmadinam.xml#dtb2326"/>
+            <audio clipBegin="0:10:29.331" clipEnd="0:10:32.297" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2406">
+            <text id="text2406" src="janmadinam.xml#dtb2327"/>
+            <audio clipBegin="0:10:32.297" clipEnd="0:10:35.624" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2407">
+            <text id="text2407" src="janmadinam.xml#dtb2328"/>
+            <audio clipBegin="0:10:35.624" clipEnd="0:10:38.380" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2408">
+            <text id="text2408" src="janmadinam.xml#dtb2329"/>
+            <audio clipBegin="0:10:38.380" clipEnd="0:10:41.892" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2409">
+            <text id="text2409" src="janmadinam.xml#dtb2330"/>
+            <audio clipBegin="0:10:41.892" clipEnd="0:10:44.930" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2410">
+            <text id="text2410" src="janmadinam.xml#dtb2331"/>
+            <audio clipBegin="0:10:44.930" clipEnd="0:10:47.817" src="speechgen0010.mp3"/>
+         </par>
+         <par customTest="pagenum" id="tcp2411">
+            <text id="text2411" src="janmadinam.xml#page0085"/>
+            <audio clipBegin="0:10:47.817" clipEnd="0:10:49.565" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2412">
+            <text id="text2412" src="janmadinam.xml#dtb2332"/>
+            <audio clipBegin="0:10:49.565" clipEnd="0:10:51.510" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2413">
+            <text id="text2413" src="janmadinam.xml#dtb2333"/>
+            <audio clipBegin="0:10:51.510" clipEnd="0:10:57.178" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2414">
+            <text id="text2414" src="janmadinam.xml#dtb2334"/>
+            <audio clipBegin="0:10:57.178" clipEnd="0:11:00.029" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2415">
+            <text id="text2415" src="janmadinam.xml#dtb2335"/>
+            <audio clipBegin="0:11:00.029" clipEnd="0:11:05.571" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2416">
+            <text id="text2416" src="janmadinam.xml#dtb2336"/>
+            <audio clipBegin="0:11:05.571" clipEnd="0:11:11.313" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2417">
+            <text id="text2417" src="janmadinam.xml#dtb2337"/>
+            <audio clipBegin="0:11:11.313" clipEnd="0:11:16.443" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2418">
+            <text id="text2418" src="janmadinam.xml#dtb2338"/>
+            <audio clipBegin="0:11:16.443" clipEnd="0:11:22.484" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2419">
+            <text id="text2419" src="janmadinam.xml#dtb2339"/>
+            <audio clipBegin="0:11:22.484" clipEnd="0:11:24.477" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2420">
+            <text id="text2420" src="janmadinam.xml#dtb2340"/>
+            <audio clipBegin="0:11:24.477" clipEnd="0:11:28.225" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2421">
+            <text id="text2421" src="janmadinam.xml#dtb2341"/>
+            <audio clipBegin="0:11:28.225" clipEnd="0:11:32.624" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2422">
+            <text id="text2422" src="janmadinam.xml#dtb2342"/>
+            <audio clipBegin="0:11:32.624" clipEnd="0:11:36.008" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2423">
+            <text id="text2423" src="janmadinam.xml#dtb2343"/>
+            <audio clipBegin="0:11:36.008" clipEnd="0:11:41.849" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2424">
+            <text id="text2424" src="janmadinam.xml#dtb2344"/>
+            <audio clipBegin="0:11:41.849" clipEnd="0:11:44.224" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2425">
+            <text id="text2425" src="janmadinam.xml#dtb2345"/>
+            <audio clipBegin="0:11:44.224" clipEnd="0:11:46.135" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2426">
+            <text id="text2426" src="janmadinam.xml#dtb2346"/>
+            <audio clipBegin="0:11:46.135" clipEnd="0:11:51.837" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2427">
+            <text id="text2427" src="janmadinam.xml#dtb2347"/>
+            <audio clipBegin="0:11:51.837" clipEnd="0:11:53.275" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2428">
+            <text id="text2428" src="janmadinam.xml#dtb2348"/>
+            <audio clipBegin="0:11:53.275" clipEnd="0:11:56.227" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2429">
+            <text id="text2429" src="janmadinam.xml#dtb2349"/>
+            <audio clipBegin="0:11:56.227" clipEnd="0:11:57.765" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2430">
+            <text id="text2430" src="janmadinam.xml#dtb2350"/>
+            <audio clipBegin="0:11:57.765" clipEnd="0:12:04.319" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2431">
+            <text id="text2431" src="janmadinam.xml#dtb2351"/>
+            <audio clipBegin="0:12:04.319" clipEnd="0:12:06.415" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2432">
+            <text id="text2432" src="janmadinam.xml#dtb2352"/>
+            <audio clipBegin="0:12:06.415" clipEnd="0:12:11.649" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2433">
+            <text id="text2433" src="janmadinam.xml#dtb2353"/>
+            <audio clipBegin="0:12:11.649" clipEnd="0:12:20.773" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2434">
+            <text id="text2434" src="janmadinam.xml#dtb2354"/>
+            <audio clipBegin="0:12:20.773" clipEnd="0:12:27.276" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2435">
+            <text id="text2435" src="janmadinam.xml#dtb2355"/>
+            <audio clipBegin="0:12:27.276" clipEnd="0:12:30.779" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2436">
+            <text id="text2436" src="janmadinam.xml#dtb2356"/>
+            <audio clipBegin="0:12:30.779" clipEnd="0:12:35.883" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2437">
+            <text id="text2437" src="janmadinam.xml#dtb2357"/>
+            <audio clipBegin="0:12:35.883" clipEnd="0:12:39.225" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2438">
+            <text id="text2438" src="janmadinam.xml#dtb2358"/>
+            <audio clipBegin="0:12:39.225" clipEnd="0:12:41.978" src="speechgen0010.mp3"/>
+         </par>
+         <par customTest="pagenum" id="tcp2439">
+            <text id="text2439" src="janmadinam.xml#page0086"/>
+            <audio clipBegin="0:12:41.978" clipEnd="0:12:43.721" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2440">
+            <text id="text2440" src="janmadinam.xml#dtb2359"/>
+            <audio clipBegin="0:12:43.721" clipEnd="0:12:46.158" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2441">
+            <text id="text2441" src="janmadinam.xml#dtb2360"/>
+            <audio clipBegin="0:12:46.158" clipEnd="0:12:50.167" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2442">
+            <text id="text2442" src="janmadinam.xml#dtb2361"/>
+            <audio clipBegin="0:12:50.167" clipEnd="0:12:55.435" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2443">
+            <text id="text2443" src="janmadinam.xml#dtb2362"/>
+            <audio clipBegin="0:12:55.435" clipEnd="0:13:03.794" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2444">
+            <text id="text2444" src="janmadinam.xml#dtb2363"/>
+            <audio clipBegin="0:13:03.794" clipEnd="0:13:05.629" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2445">
+            <text id="text2445" src="janmadinam.xml#dtb2364"/>
+            <audio clipBegin="0:13:05.629" clipEnd="0:13:07.216" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2446">
+            <text id="text2446" src="janmadinam.xml#dtb2365"/>
+            <audio clipBegin="0:13:07.216" clipEnd="0:13:08.999" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2447">
+            <text id="text2447" src="janmadinam.xml#dtb2366"/>
+            <audio clipBegin="0:13:08.999" clipEnd="0:13:12.363" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2448">
+            <text id="text2448" src="janmadinam.xml#dtb2367"/>
+            <audio clipBegin="0:13:12.363" clipEnd="0:13:14.852" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2449">
+            <text id="text2449" src="janmadinam.xml#dtb2368"/>
+            <audio clipBegin="0:13:14.852" clipEnd="0:13:17.688" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2450">
+            <text id="text2450" src="janmadinam.xml#dtb2369"/>
+            <audio clipBegin="0:13:17.688" clipEnd="0:13:20.808" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2451">
+            <text id="text2451" src="janmadinam.xml#dtb2370"/>
+            <audio clipBegin="0:13:20.808" clipEnd="0:13:22.246" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2452">
+            <text id="text2452" src="janmadinam.xml#dtb2371"/>
+            <audio clipBegin="0:13:22.246" clipEnd="0:13:24.355" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2453">
+            <text id="text2453" src="janmadinam.xml#dtb2372"/>
+            <audio clipBegin="0:13:24.355" clipEnd="0:13:25.998" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2454">
+            <text id="text2454" src="janmadinam.xml#dtb2373"/>
+            <audio clipBegin="0:13:25.998" clipEnd="0:13:28.938" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2455">
+            <text id="text2455" src="janmadinam.xml#dtb2374"/>
+            <audio clipBegin="0:13:28.938" clipEnd="0:13:30.975" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2456">
+            <text id="text2456" src="janmadinam.xml#dtb2375"/>
+            <audio clipBegin="0:13:30.975" clipEnd="0:13:37.103" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2457">
+            <text id="text2457" src="janmadinam.xml#dtb2376"/>
+            <audio clipBegin="0:13:37.103" clipEnd="0:13:39.526" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2458">
+            <text id="text2458" src="janmadinam.xml#dtb2377"/>
+            <audio clipBegin="0:13:39.526" clipEnd="0:13:44.531" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2459">
+            <text id="text2459" src="janmadinam.xml#dtb2378"/>
+            <audio clipBegin="0:13:44.531" clipEnd="0:13:47.820" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2460">
+            <text id="text2460" src="janmadinam.xml#dtb2379"/>
+            <audio clipBegin="0:13:47.820" clipEnd="0:13:50.310" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2461">
+            <text id="text2461" src="janmadinam.xml#dtb2380"/>
+            <audio clipBegin="0:13:50.310" clipEnd="0:13:51.718" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2462">
+            <text id="text2462" src="janmadinam.xml#dtb2381"/>
+            <audio clipBegin="0:13:51.718" clipEnd="0:13:58.970" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2463">
+            <text id="text2463" src="janmadinam.xml#dtb2382"/>
+            <audio clipBegin="0:13:58.970" clipEnd="0:14:04.395" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2464">
+            <text id="text2464" src="janmadinam.xml#dtb2383"/>
+            <audio clipBegin="0:14:04.395" clipEnd="0:14:08.908" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2465">
+            <text id="text2465" src="janmadinam.xml#dtb2384"/>
+            <audio clipBegin="0:14:08.908" clipEnd="0:14:13.263" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2466">
+            <text id="text2466" src="janmadinam.xml#dtb2385"/>
+            <audio clipBegin="0:14:13.263" clipEnd="0:14:16.516" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2467">
+            <text id="text2467" src="janmadinam.xml#dtb2386"/>
+            <audio clipBegin="0:14:16.516" clipEnd="0:14:22.160" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2468">
+            <text id="text2468" src="janmadinam.xml#dtb2387"/>
+            <audio clipBegin="0:14:22.160" clipEnd="0:14:23.517" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2469">
+            <text id="text2469" src="janmadinam.xml#dtb2388"/>
+            <audio clipBegin="0:14:23.517" clipEnd="0:14:25.288" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2470">
+            <text id="text2470" src="janmadinam.xml#dtb2389"/>
+            <audio clipBegin="0:14:25.288" clipEnd="0:14:27.695" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2471">
+            <text id="text2471" src="janmadinam.xml#dtb2390"/>
+            <audio clipBegin="0:14:27.695" clipEnd="0:14:31.321" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2472">
+            <text id="text2472" src="janmadinam.xml#dtb2391"/>
+            <audio clipBegin="0:14:31.321" clipEnd="0:14:34.175" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2473">
+            <text id="text2473" src="janmadinam.xml#dtb2392"/>
+            <audio clipBegin="0:14:34.175" clipEnd="0:14:35.953" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2474">
+            <text id="text2474" src="janmadinam.xml#dtb2393"/>
+            <audio clipBegin="0:14:35.953" clipEnd="0:14:38.164" src="speechgen0010.mp3"/>
+         </par>
+         <par customTest="pagenum" id="tcp2475">
+            <text id="text2475" src="janmadinam.xml#page0087"/>
+            <audio clipBegin="0:14:38.164" clipEnd="0:14:39.941" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2476">
+            <text id="text2476" src="janmadinam.xml#dtb2394"/>
+            <audio clipBegin="0:14:39.941" clipEnd="0:14:42.508" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2477">
+            <text id="text2477" src="janmadinam.xml#dtb2395"/>
+            <audio clipBegin="0:14:42.508" clipEnd="0:14:44.157" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2478">
+            <text id="text2478" src="janmadinam.xml#dtb2396"/>
+            <audio clipBegin="0:14:44.157" clipEnd="0:14:48.291" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2479">
+            <text id="text2479" src="janmadinam.xml#dtb2397"/>
+            <audio clipBegin="0:14:48.291" clipEnd="0:14:50.972" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2480">
+            <text id="text2480" src="janmadinam.xml#dtb2398"/>
+            <audio clipBegin="0:14:50.972" clipEnd="0:14:56.552" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2481">
+            <text id="text2481" src="janmadinam.xml#dtb2399"/>
+            <audio clipBegin="0:14:56.552" clipEnd="0:15:00.604" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2482">
+            <text id="text2482" src="janmadinam.xml#dtb2400"/>
+            <audio clipBegin="0:15:00.604" clipEnd="0:15:02.985" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2483">
+            <text id="text2483" src="janmadinam.xml#dtb2401"/>
+            <audio clipBegin="0:15:02.985" clipEnd="0:15:05.074" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2484">
+            <text id="text2484" src="janmadinam.xml#dtb2402"/>
+            <audio clipBegin="0:15:05.074" clipEnd="0:15:06.941" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2485">
+            <text id="text2485" src="janmadinam.xml#dtb2403"/>
+            <audio clipBegin="0:15:06.941" clipEnd="0:15:12.249" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2486">
+            <text id="text2486" src="janmadinam.xml#dtb2404"/>
+            <audio clipBegin="0:15:12.249" clipEnd="0:15:19.026" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2487">
+            <text id="text2487" src="janmadinam.xml#dtb2405"/>
+            <audio clipBegin="0:15:19.026" clipEnd="0:15:21.048" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2488">
+            <text id="text2488" src="janmadinam.xml#dtb2406"/>
+            <audio clipBegin="0:15:21.048" clipEnd="0:15:22.890" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2489">
+            <text id="text2489" src="janmadinam.xml#dtb2407"/>
+            <audio clipBegin="0:15:22.890" clipEnd="0:15:25.588" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2490">
+            <text id="text2490" src="janmadinam.xml#dtb2408"/>
+            <audio clipBegin="0:15:25.588" clipEnd="0:15:27.930" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2491">
+            <text id="text2491" src="janmadinam.xml#dtb2409"/>
+            <audio clipBegin="0:15:27.930" clipEnd="0:15:32.540" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2492">
+            <text id="text2492" src="janmadinam.xml#dtb2410"/>
+            <audio clipBegin="0:15:32.540" clipEnd="0:15:35.619" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2493">
+            <text id="text2493" src="janmadinam.xml#dtb2411"/>
+            <audio clipBegin="0:15:35.619" clipEnd="0:15:37.779" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2494">
+            <text id="text2494" src="janmadinam.xml#dtb2412"/>
+            <audio clipBegin="0:15:37.779" clipEnd="0:15:40.179" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2495">
+            <text id="text2495" src="janmadinam.xml#dtb2413"/>
+            <audio clipBegin="0:15:40.179" clipEnd="0:15:43.412" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2496">
+            <text id="text2496" src="janmadinam.xml#dtb2414"/>
+            <audio clipBegin="0:15:43.412" clipEnd="0:15:45.227" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2497">
+            <text id="text2497" src="janmadinam.xml#dtb2415"/>
+            <audio clipBegin="0:15:45.227" clipEnd="0:15:51.102" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2498">
+            <text id="text2498" src="janmadinam.xml#dtb2416"/>
+            <audio clipBegin="0:15:51.102" clipEnd="0:15:54.402" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2499">
+            <text id="text2499" src="janmadinam.xml#dtb2417"/>
+            <audio clipBegin="0:15:54.402" clipEnd="0:15:59.474" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2500">
+            <text id="text2500" src="janmadinam.xml#dtb2418"/>
+            <audio clipBegin="0:15:59.474" clipEnd="0:16:02.516" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2501">
+            <text id="text2501" src="janmadinam.xml#dtb2419"/>
+            <audio clipBegin="0:16:02.516" clipEnd="0:16:03.933" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2502">
+            <text id="text2502" src="janmadinam.xml#dtb2420"/>
+            <audio clipBegin="0:16:03.933" clipEnd="0:16:06.316" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2503">
+            <text id="text2503" src="janmadinam.xml#dtb2421"/>
+            <audio clipBegin="0:16:06.316" clipEnd="0:16:09.314" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2504">
+            <text id="text2504" src="janmadinam.xml#dtb2422"/>
+            <audio clipBegin="0:16:09.314" clipEnd="0:16:12.163" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2505">
+            <text id="text2505" src="janmadinam.xml#dtb2423"/>
+            <audio clipBegin="0:16:12.163" clipEnd="0:16:19.172" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2506">
+            <text id="text2506" src="janmadinam.xml#dtb2424"/>
+            <audio clipBegin="0:16:19.172" clipEnd="0:16:22.330" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2507">
+            <text id="text2507" src="janmadinam.xml#dtb2425"/>
+            <audio clipBegin="0:16:22.330" clipEnd="0:16:24.753" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2508">
+            <text id="text2508" src="janmadinam.xml#dtb2426"/>
+            <audio clipBegin="0:16:24.753" clipEnd="0:16:27.827" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2509">
+            <text id="text2509" src="janmadinam.xml#dtb2427"/>
+            <audio clipBegin="0:16:27.827" clipEnd="0:16:29.358" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2510">
+            <text id="text2510" src="janmadinam.xml#dtb2428"/>
+            <audio clipBegin="0:16:29.358" clipEnd="0:16:34.777" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2511">
+            <text id="text2511" src="janmadinam.xml#dtb2429"/>
+            <audio clipBegin="0:16:34.777" clipEnd="0:16:36.293" src="speechgen0010.mp3"/>
+         </par>
+         <par customTest="pagenum" id="tcp2512">
+            <text id="text2512" src="janmadinam.xml#page0088"/>
+            <audio clipBegin="0:16:36.293" clipEnd="0:16:38.137" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2513">
+            <text id="text2513" src="janmadinam.xml#dtb2430"/>
+            <audio clipBegin="0:16:38.137" clipEnd="0:16:41.133" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2514">
+            <text id="text2514" src="janmadinam.xml#dtb2431"/>
+            <audio clipBegin="0:16:41.133" clipEnd="0:16:46.683" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2515">
+            <text id="text2515" src="janmadinam.xml#dtb2432"/>
+            <audio clipBegin="0:16:46.683" clipEnd="0:16:48.001" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2516">
+            <text id="text2516" src="janmadinam.xml#dtb2433"/>
+            <audio clipBegin="0:16:48.001" clipEnd="0:16:52.375" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2517">
+            <text id="text2517" src="janmadinam.xml#dtb2434"/>
+            <audio clipBegin="0:16:52.375" clipEnd="0:16:56.080" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2518">
+            <text id="text2518" src="janmadinam.xml#dtb2435"/>
+            <audio clipBegin="0:16:56.080" clipEnd="0:17:10.297" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2519">
+            <text id="text2519" src="janmadinam.xml#dtb2436"/>
+            <audio clipBegin="0:17:10.297" clipEnd="0:17:13.131" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2520">
+            <text id="text2520" src="janmadinam.xml#dtb2437"/>
+            <audio clipBegin="0:17:13.131" clipEnd="0:17:14.587" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2521">
+            <text id="text2521" src="janmadinam.xml#dtb2438"/>
+            <audio clipBegin="0:17:14.587" clipEnd="0:17:16.174" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2522">
+            <text id="text2522" src="janmadinam.xml#dtb2439"/>
+            <audio clipBegin="0:17:16.174" clipEnd="0:17:25.085" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2523">
+            <text id="text2523" src="janmadinam.xml#dtb2440"/>
+            <audio clipBegin="0:17:25.085" clipEnd="0:17:28.634" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2524">
+            <text id="text2524" src="janmadinam.xml#dtb2441"/>
+            <audio clipBegin="0:17:28.634" clipEnd="0:17:31.606" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2525">
+            <text id="text2525" src="janmadinam.xml#dtb2442"/>
+            <audio clipBegin="0:17:31.606" clipEnd="0:17:37.431" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2526">
+            <text id="text2526" src="janmadinam.xml#dtb2443"/>
+            <audio clipBegin="0:17:37.431" clipEnd="0:17:39.460" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2527">
+            <text id="text2527" src="janmadinam.xml#dtb2444"/>
+            <audio clipBegin="0:17:39.460" clipEnd="0:17:47.977" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2528">
+            <text id="text2528" src="janmadinam.xml#dtb2445"/>
+            <audio clipBegin="0:17:47.977" clipEnd="0:17:52.042" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2529">
+            <text id="text2529" src="janmadinam.xml#dtb2446"/>
+            <audio clipBegin="0:17:52.042" clipEnd="0:17:54.215" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2530">
+            <text id="text2530" src="janmadinam.xml#dtb2447"/>
+            <audio clipBegin="0:17:54.215" clipEnd="0:17:56.257" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2531">
+            <text id="text2531" src="janmadinam.xml#dtb2448"/>
+            <audio clipBegin="0:17:56.257" clipEnd="0:17:58.661" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2532">
+            <text id="text2532" src="janmadinam.xml#dtb2449"/>
+            <audio clipBegin="0:17:58.661" clipEnd="0:18:00.880" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2533">
+            <text id="text2533" src="janmadinam.xml#dtb2450"/>
+            <audio clipBegin="0:18:00.880" clipEnd="0:18:03.351" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2534">
+            <text id="text2534" src="janmadinam.xml#dtb2451"/>
+            <audio clipBegin="0:18:03.351" clipEnd="0:18:05.892" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2535">
+            <text id="text2535" src="janmadinam.xml#dtb2452"/>
+            <audio clipBegin="0:18:05.892" clipEnd="0:18:10.593" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2536">
+            <text id="text2536" src="janmadinam.xml#dtb2453"/>
+            <audio clipBegin="0:18:10.593" clipEnd="0:18:15.707" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2537">
+            <text id="text2537" src="janmadinam.xml#dtb2454"/>
+            <audio clipBegin="0:18:15.707" clipEnd="0:18:18.282" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2538">
+            <text id="text2538" src="janmadinam.xml#dtb2455"/>
+            <audio clipBegin="0:18:18.282" clipEnd="0:18:21.832" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2539">
+            <text id="text2539" src="janmadinam.xml#dtb2456"/>
+            <audio clipBegin="0:18:21.832" clipEnd="0:18:25.074" src="speechgen0010.mp3"/>
+         </par>
+         <par customTest="pagenum" id="tcp2540">
+            <text id="text2540" src="janmadinam.xml#page0089"/>
+            <audio clipBegin="0:18:25.074" clipEnd="0:18:26.888" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2541">
+            <text id="text2541" src="janmadinam.xml#dtb2457"/>
+            <audio clipBegin="0:18:26.888" clipEnd="0:18:33.788" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2542">
+            <text id="text2542" src="janmadinam.xml#dtb2458"/>
+            <audio clipBegin="0:18:33.788" clipEnd="0:18:35.995" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2543">
+            <text id="text2543" src="janmadinam.xml#dtb2459"/>
+            <audio clipBegin="0:18:35.995" clipEnd="0:18:38.034" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2544">
+            <text id="text2544" src="janmadinam.xml#dtb2460"/>
+            <audio clipBegin="0:18:38.034" clipEnd="0:18:43.220" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2545">
+            <text id="text2545" src="janmadinam.xml#dtb2461"/>
+            <audio clipBegin="0:18:43.220" clipEnd="0:18:45.200" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2546">
+            <text id="text2546" src="janmadinam.xml#dtb2462"/>
+            <audio clipBegin="0:18:45.200" clipEnd="0:18:51.576" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2547">
+            <text id="text2547" src="janmadinam.xml#dtb2463"/>
+            <audio clipBegin="0:18:51.576" clipEnd="0:18:57.452" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2548">
+            <text id="text2548" src="janmadinam.xml#dtb2464"/>
+            <audio clipBegin="0:18:57.452" clipEnd="0:19:02.917" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2549">
+            <text id="text2549" src="janmadinam.xml#dtb2465"/>
+            <audio clipBegin="0:19:02.917" clipEnd="0:19:08.139" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2550">
+            <text id="text2550" src="janmadinam.xml#dtb2466"/>
+            <audio clipBegin="0:19:08.139" clipEnd="0:19:10.671" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2551">
+            <text id="text2551" src="janmadinam.xml#dtb2467"/>
+            <audio clipBegin="0:19:10.671" clipEnd="0:19:12.966" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2552">
+            <text id="text2552" src="janmadinam.xml#dtb2468"/>
+            <audio clipBegin="0:19:12.966" clipEnd="0:19:15.358" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2553">
+            <text id="text2553" src="janmadinam.xml#dtb2469"/>
+            <audio clipBegin="0:19:15.358" clipEnd="0:19:19.019" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2554">
+            <text id="text2554" src="janmadinam.xml#dtb2470"/>
+            <audio clipBegin="0:19:19.019" clipEnd="0:19:22.824" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2555">
+            <text id="text2555" src="janmadinam.xml#dtb2471"/>
+            <audio clipBegin="0:19:22.824" clipEnd="0:19:29.542" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2556">
+            <text id="text2556" src="janmadinam.xml#dtb2472"/>
+            <audio clipBegin="0:19:29.542" clipEnd="0:19:31.805" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2557">
+            <text id="text2557" src="janmadinam.xml#dtb2473"/>
+            <audio clipBegin="0:19:31.805" clipEnd="0:19:35.689" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2558">
+            <text id="text2558" src="janmadinam.xml#dtb2474"/>
+            <audio clipBegin="0:19:35.689" clipEnd="0:19:38.709" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2559">
+            <text id="text2559" src="janmadinam.xml#dtb2475"/>
+            <audio clipBegin="0:19:38.709" clipEnd="0:19:47.048" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2560">
+            <text id="text2560" src="janmadinam.xml#dtb2476"/>
+            <audio clipBegin="0:19:47.048" clipEnd="0:19:50.747" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2561">
+            <text id="text2561" src="janmadinam.xml#dtb2477"/>
+            <audio clipBegin="0:19:50.747" clipEnd="0:19:54.894" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2562">
+            <text id="text2562" src="janmadinam.xml#dtb2478"/>
+            <audio clipBegin="0:19:54.894" clipEnd="0:19:57.387" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2563">
+            <text id="text2563" src="janmadinam.xml#dtb2479"/>
+            <audio clipBegin="0:19:57.387" clipEnd="0:20:00.200" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2564">
+            <text id="text2564" src="janmadinam.xml#dtb2480"/>
+            <audio clipBegin="0:20:00.200" clipEnd="0:20:01.813" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2565">
+            <text id="text2565" src="janmadinam.xml#dtb2481"/>
+            <audio clipBegin="0:20:01.813" clipEnd="0:20:03.287" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2566">
+            <text id="text2566" src="janmadinam.xml#dtb2482"/>
+            <audio clipBegin="0:20:03.287" clipEnd="0:20:04.854" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2567">
+            <text id="text2567" src="janmadinam.xml#dtb2483"/>
+            <audio clipBegin="0:20:04.854" clipEnd="0:20:10.469" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2568">
+            <text id="text2568" src="janmadinam.xml#dtb2484"/>
+            <audio clipBegin="0:20:10.469" clipEnd="0:20:13.130" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2569">
+            <text id="text2569" src="janmadinam.xml#dtb2485"/>
+            <audio clipBegin="0:20:13.130" clipEnd="0:20:14.894" src="speechgen0010.mp3"/>
+         </par>
+         <par customTest="pagenum" id="tcp2570">
+            <text id="text2570" src="janmadinam.xml#page0090"/>
+            <audio clipBegin="0:20:14.894" clipEnd="0:20:16.752" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2571">
+            <text id="text2571" src="janmadinam.xml#dtb2486"/>
+            <audio clipBegin="0:20:16.752" clipEnd="0:20:19.981" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2572">
+            <text id="text2572" src="janmadinam.xml#dtb2487"/>
+            <audio clipBegin="0:20:19.981" clipEnd="0:20:26.961" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2573">
+            <text id="text2573" src="janmadinam.xml#dtb2488"/>
+            <audio clipBegin="0:20:26.961" clipEnd="0:20:30.553" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2574">
+            <text id="text2574" src="janmadinam.xml#dtb2489"/>
+            <audio clipBegin="0:20:30.553" clipEnd="0:20:32.909" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2575">
+            <text id="text2575" src="janmadinam.xml#dtb2490"/>
+            <audio clipBegin="0:20:32.909" clipEnd="0:20:37.110" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2576">
+            <text id="text2576" src="janmadinam.xml#dtb2491"/>
+            <audio clipBegin="0:20:37.110" clipEnd="0:20:38.900" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2577">
+            <text id="text2577" src="janmadinam.xml#dtb2492"/>
+            <audio clipBegin="0:20:38.900" clipEnd="0:20:40.460" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2578">
+            <text id="text2578" src="janmadinam.xml#dtb2493"/>
+            <audio clipBegin="0:20:40.460" clipEnd="0:20:41.696" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2579">
+            <text id="text2579" src="janmadinam.xml#dtb2494"/>
+            <audio clipBegin="0:20:41.696" clipEnd="0:20:43.218" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2580">
+            <text id="text2580" src="janmadinam.xml#dtb2495"/>
+            <audio clipBegin="0:20:43.218" clipEnd="0:20:45.398" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2581">
+            <text id="text2581" src="janmadinam.xml#dtb2496"/>
+            <audio clipBegin="0:20:45.398" clipEnd="0:20:47.058" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2582">
+            <text id="text2582" src="janmadinam.xml#dtb2497"/>
+            <audio clipBegin="0:20:47.058" clipEnd="0:20:48.591" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2583">
+            <text id="text2583" src="janmadinam.xml#dtb2498"/>
+            <audio clipBegin="0:20:48.591" clipEnd="0:20:49.972" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2584">
+            <text id="text2584" src="janmadinam.xml#dtb2499"/>
+            <audio clipBegin="0:20:49.972" clipEnd="0:20:51.595" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2585">
+            <text id="text2585" src="janmadinam.xml#dtb2500"/>
+            <audio clipBegin="0:20:51.595" clipEnd="0:20:53.344" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2586">
+            <text id="text2586" src="janmadinam.xml#dtb2501"/>
+            <audio clipBegin="0:20:53.344" clipEnd="0:20:56.383" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2587">
+            <text id="text2587" src="janmadinam.xml#dtb2502"/>
+            <audio clipBegin="0:20:56.383" clipEnd="0:20:58.339" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2588">
+            <text id="text2588" src="janmadinam.xml#dtb2503"/>
+            <audio clipBegin="0:20:58.339" clipEnd="0:20:59.768" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2589">
+            <text id="text2589" src="janmadinam.xml#dtb2504"/>
+            <audio clipBegin="0:20:59.768" clipEnd="0:21:01.427" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2590">
+            <text id="text2590" src="janmadinam.xml#dtb2505"/>
+            <audio clipBegin="0:21:01.427" clipEnd="0:21:04.067" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2591">
+            <text id="text2591" src="janmadinam.xml#dtb2506"/>
+            <audio clipBegin="0:21:04.067" clipEnd="0:21:08.002" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2592">
+            <text id="text2592" src="janmadinam.xml#dtb2507"/>
+            <audio clipBegin="0:21:08.002" clipEnd="0:21:16.363" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2593">
+            <text id="text2593" src="janmadinam.xml#dtb2508"/>
+            <audio clipBegin="0:21:16.363" clipEnd="0:21:23.228" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2594">
+            <text id="text2594" src="janmadinam.xml#dtb2509"/>
+            <audio clipBegin="0:21:23.228" clipEnd="0:21:26.198" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2595">
+            <text id="text2595" src="janmadinam.xml#dtb2510"/>
+            <audio clipBegin="0:21:26.198" clipEnd="0:21:40.301" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2596">
+            <text id="text2596" src="janmadinam.xml#dtb2511"/>
+            <audio clipBegin="0:21:40.301" clipEnd="0:21:45.541" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2597">
+            <text id="text2597" src="janmadinam.xml#dtb2512"/>
+            <audio clipBegin="0:21:45.541" clipEnd="0:21:48.386" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2598">
+            <text id="text2598" src="janmadinam.xml#dtb2513"/>
+            <audio clipBegin="0:21:48.386" clipEnd="0:21:54.294" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2599">
+            <text id="text2599" src="janmadinam.xml#dtb2514"/>
+            <audio clipBegin="0:21:54.294" clipEnd="0:21:59.415" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2600">
+            <text id="text2600" src="janmadinam.xml#dtb2515"/>
+            <audio clipBegin="0:21:59.415" clipEnd="0:22:02.772" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2601">
+            <text id="text2601" src="janmadinam.xml#dtb2516"/>
+            <audio clipBegin="0:22:02.772" clipEnd="0:22:05.408" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2602">
+            <text id="text2602" src="janmadinam.xml#dtb2517"/>
+            <audio clipBegin="0:22:05.408" clipEnd="0:22:10.684" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2603">
+            <text id="text2603" src="janmadinam.xml#dtb2518"/>
+            <audio clipBegin="0:22:10.684" clipEnd="0:22:13.263" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2604">
+            <text id="text2604" src="janmadinam.xml#dtb2519"/>
+            <audio clipBegin="0:22:13.263" clipEnd="0:22:15.687" src="speechgen0010.mp3"/>
+         </par>
+         <par customTest="pagenum" id="tcp2605">
+            <text id="text2605" src="janmadinam.xml#page0091"/>
+            <audio clipBegin="0:22:15.687" clipEnd="0:22:17.390" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2606">
+            <text id="text2606" src="janmadinam.xml#dtb2520"/>
+            <audio clipBegin="0:22:17.390" clipEnd="0:22:19.072" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2607">
+            <text id="text2607" src="janmadinam.xml#dtb2521"/>
+            <audio clipBegin="0:22:19.072" clipEnd="0:22:22.005" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2608">
+            <text id="text2608" src="janmadinam.xml#dtb2522"/>
+            <audio clipBegin="0:22:22.005" clipEnd="0:22:26.423" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2609">
+            <text id="text2609" src="janmadinam.xml#dtb2523"/>
+            <audio clipBegin="0:22:26.423" clipEnd="0:22:35.453" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2610">
+            <text id="text2610" src="janmadinam.xml#dtb2524"/>
+            <audio clipBegin="0:22:35.453" clipEnd="0:22:37.911" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2611">
+            <text id="text2611" src="janmadinam.xml#dtb2525"/>
+            <audio clipBegin="0:22:37.911" clipEnd="0:22:41.082" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2612">
+            <text id="text2612" src="janmadinam.xml#dtb2526"/>
+            <audio clipBegin="0:22:41.082" clipEnd="0:22:46.439" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2613">
+            <text id="text2613" src="janmadinam.xml#dtb2527"/>
+            <audio clipBegin="0:22:46.439" clipEnd="0:22:48.847" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2614">
+            <text id="text2614" src="janmadinam.xml#dtb2528"/>
+            <audio clipBegin="0:22:48.847" clipEnd="0:22:51.920" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2615">
+            <text id="text2615" src="janmadinam.xml#dtb2529"/>
+            <audio clipBegin="0:22:51.920" clipEnd="0:22:55.607" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2616">
+            <text id="text2616" src="janmadinam.xml#dtb2530"/>
+            <audio clipBegin="0:22:55.607" clipEnd="0:23:02.168" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2617">
+            <text id="text2617" src="janmadinam.xml#dtb2531"/>
+            <audio clipBegin="0:23:02.168" clipEnd="0:23:04.795" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2618">
+            <text id="text2618" src="janmadinam.xml#dtb2532"/>
+            <audio clipBegin="0:23:04.795" clipEnd="0:23:06.203" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2619">
+            <text id="text2619" src="janmadinam.xml#dtb2533"/>
+            <audio clipBegin="0:23:06.203" clipEnd="0:23:09.816" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2620">
+            <text id="text2620" src="janmadinam.xml#dtb2534"/>
+            <audio clipBegin="0:23:09.816" clipEnd="0:23:11.663" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2621">
+            <text id="text2621" src="janmadinam.xml#dtb2535"/>
+            <audio clipBegin="0:23:11.663" clipEnd="0:23:13.799" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2622">
+            <text id="text2622" src="janmadinam.xml#dtb2536"/>
+            <audio clipBegin="0:23:13.799" clipEnd="0:23:15.249" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2623">
+            <text id="text2623" src="janmadinam.xml#dtb2537"/>
+            <audio clipBegin="0:23:15.249" clipEnd="0:23:16.701" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2624">
+            <text id="text2624" src="janmadinam.xml#dtb2538"/>
+            <audio clipBegin="0:23:16.701" clipEnd="0:23:18.139" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2625">
+            <text id="text2625" src="janmadinam.xml#dtb2539"/>
+            <audio clipBegin="0:23:18.139" clipEnd="0:23:20.031" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2626">
+            <text id="text2626" src="janmadinam.xml#dtb2540"/>
+            <audio clipBegin="0:23:20.031" clipEnd="0:23:22.875" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2627">
+            <text id="text2627" src="janmadinam.xml#dtb2541"/>
+            <audio clipBegin="0:23:22.875" clipEnd="0:23:25.789" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2628">
+            <text id="text2628" src="janmadinam.xml#dtb2542"/>
+            <audio clipBegin="0:23:25.789" clipEnd="0:23:27.705" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2629">
+            <text id="text2629" src="janmadinam.xml#dtb2543"/>
+            <audio clipBegin="0:23:27.705" clipEnd="0:23:30.043" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2630">
+            <text id="text2630" src="janmadinam.xml#dtb2544"/>
+            <audio clipBegin="0:23:30.043" clipEnd="0:23:33.769" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2631">
+            <text id="text2631" src="janmadinam.xml#dtb2545"/>
+            <audio clipBegin="0:23:33.769" clipEnd="0:23:38.391" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2632">
+            <text id="text2632" src="janmadinam.xml#dtb2546"/>
+            <audio clipBegin="0:23:38.391" clipEnd="0:23:42.314" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2633">
+            <text id="text2633" src="janmadinam.xml#dtb2547"/>
+            <audio clipBegin="0:23:42.314" clipEnd="0:23:48.821" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2634">
+            <text id="text2634" src="janmadinam.xml#dtb2548"/>
+            <audio clipBegin="0:23:48.821" clipEnd="0:23:51.196" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2635">
+            <text id="text2635" src="janmadinam.xml#dtb2549"/>
+            <audio clipBegin="0:23:51.196" clipEnd="0:23:55.319" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2636">
+            <text id="text2636" src="janmadinam.xml#dtb2550"/>
+            <audio clipBegin="0:23:55.319" clipEnd="0:23:58.023" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2637">
+            <text id="text2637" src="janmadinam.xml#dtb2551"/>
+            <audio clipBegin="0:23:58.023" clipEnd="0:23:59.782" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2638">
+            <text id="text2638" src="janmadinam.xml#dtb2552"/>
+            <audio clipBegin="0:23:59.782" clipEnd="0:24:02.998" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2639">
+            <text id="text2639" src="janmadinam.xml#dtb2553"/>
+            <audio clipBegin="0:24:02.998" clipEnd="0:24:04.451" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2640">
+            <text id="text2640" src="janmadinam.xml#dtb2554"/>
+            <audio clipBegin="0:24:04.451" clipEnd="0:24:05.933" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2641">
+            <text id="text2641" src="janmadinam.xml#dtb2555"/>
+            <audio clipBegin="0:24:05.933" clipEnd="0:24:07.660" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2642">
+            <text id="text2642" src="janmadinam.xml#dtb2556"/>
+            <audio clipBegin="0:24:07.660" clipEnd="0:24:09.604" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2643">
+            <text id="text2643" src="janmadinam.xml#dtb2557"/>
+            <audio clipBegin="0:24:09.604" clipEnd="0:24:14.606" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2644">
+            <text id="text2644" src="janmadinam.xml#dtb2558"/>
+            <audio clipBegin="0:24:14.606" clipEnd="0:24:16.853" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2645">
+            <text id="text2645" src="janmadinam.xml#dtb2559"/>
+            <audio clipBegin="0:24:16.853" clipEnd="0:24:19.622" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2646">
+            <text id="text2646" src="janmadinam.xml#dtb2560"/>
+            <audio clipBegin="0:24:19.622" clipEnd="0:24:22.575" src="speechgen0010.mp3"/>
+         </par>
+         <par customTest="pagenum" id="tcp2647">
+            <text id="text2647" src="janmadinam.xml#page0092"/>
+            <audio clipBegin="0:24:22.575" clipEnd="0:24:24.389" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2648">
+            <text id="text2648" src="janmadinam.xml#dtb2561"/>
+            <audio clipBegin="0:24:24.389" clipEnd="0:24:26.327" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2649">
+            <text id="text2649" src="janmadinam.xml#dtb2562"/>
+            <audio clipBegin="0:24:26.327" clipEnd="0:24:28.181" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2650">
+            <text id="text2650" src="janmadinam.xml#dtb2563"/>
+            <audio clipBegin="0:24:28.181" clipEnd="0:24:33.753" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2651">
+            <text id="text2651" src="janmadinam.xml#dtb2564"/>
+            <audio clipBegin="0:24:33.753" clipEnd="0:24:36.656" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2652">
+            <text id="text2652" src="janmadinam.xml#dtb2565"/>
+            <audio clipBegin="0:24:36.656" clipEnd="0:24:41.161" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2653">
+            <text id="text2653" src="janmadinam.xml#dtb2566"/>
+            <audio clipBegin="0:24:41.161" clipEnd="0:24:43.730" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2654">
+            <text id="text2654" src="janmadinam.xml#dtb2567"/>
+            <audio clipBegin="0:24:43.730" clipEnd="0:24:46.939" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2655">
+            <text id="text2655" src="janmadinam.xml#dtb2568"/>
+            <audio clipBegin="0:24:46.939" clipEnd="0:24:55.192" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2656">
+            <text id="text2656" src="janmadinam.xml#dtb2569"/>
+            <audio clipBegin="0:24:55.192" clipEnd="0:24:58.827" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2657">
+            <text id="text2657" src="janmadinam.xml#dtb2570"/>
+            <audio clipBegin="0:24:58.827" clipEnd="0:25:02.420" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2658">
+            <text id="text2658" src="janmadinam.xml#dtb2571"/>
+            <audio clipBegin="0:25:02.420" clipEnd="0:25:06.674" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2659">
+            <text id="text2659" src="janmadinam.xml#dtb2572"/>
+            <audio clipBegin="0:25:06.674" clipEnd="0:25:09.548" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2660">
+            <text id="text2660" src="janmadinam.xml#dtb2573"/>
+            <audio clipBegin="0:25:09.548" clipEnd="0:25:11.630" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2661">
+            <text id="text2661" src="janmadinam.xml#dtb2574"/>
+            <audio clipBegin="0:25:11.630" clipEnd="0:25:17.796" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2662">
+            <text id="text2662" src="janmadinam.xml#dtb2575"/>
+            <audio clipBegin="0:25:17.796" clipEnd="0:25:19.871" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2663">
+            <text id="text2663" src="janmadinam.xml#dtb2576"/>
+            <audio clipBegin="0:25:19.871" clipEnd="0:25:25.428" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2664">
+            <text id="text2664" src="janmadinam.xml#dtb2577"/>
+            <audio clipBegin="0:25:25.428" clipEnd="0:25:27.980" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2665">
+            <text id="text2665" src="janmadinam.xml#dtb2578"/>
+            <audio clipBegin="0:25:27.980" clipEnd="0:25:31.192" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2666">
+            <text id="text2666" src="janmadinam.xml#dtb2579"/>
+            <audio clipBegin="0:25:31.192" clipEnd="0:25:33.538" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2667">
+            <text id="text2667" src="janmadinam.xml#dtb2580"/>
+            <audio clipBegin="0:25:33.538" clipEnd="0:25:39.138" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2668">
+            <text id="text2668" src="janmadinam.xml#dtb2581"/>
+            <audio clipBegin="0:25:39.138" clipEnd="0:25:43.570" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2669">
+            <text id="text2669" src="janmadinam.xml#dtb2582"/>
+            <audio clipBegin="0:25:43.570" clipEnd="0:25:46.140" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2670">
+            <text id="text2670" src="janmadinam.xml#dtb2583"/>
+            <audio clipBegin="0:25:46.140" clipEnd="0:25:49.389" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2671">
+            <text id="text2671" src="janmadinam.xml#dtb2584"/>
+            <audio clipBegin="0:25:49.389" clipEnd="0:25:53.312" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2672">
+            <text id="text2672" src="janmadinam.xml#dtb2585"/>
+            <audio clipBegin="0:25:53.312" clipEnd="0:25:57.431" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2673">
+            <text id="text2673" src="janmadinam.xml#dtb2586"/>
+            <audio clipBegin="0:25:57.431" clipEnd="0:25:59.525" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2674">
+            <text id="text2674" src="janmadinam.xml#dtb2587"/>
+            <audio clipBegin="0:25:59.525" clipEnd="0:26:08.772" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2675">
+            <text id="text2675" src="janmadinam.xml#dtb2588"/>
+            <audio clipBegin="0:26:08.772" clipEnd="0:26:13.116" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2676">
+            <text id="text2676" src="janmadinam.xml#dtb2589"/>
+            <audio clipBegin="0:26:13.116" clipEnd="0:26:15.471" src="speechgen0010.mp3"/>
+         </par>
+         <par customTest="pagenum" id="tcp2677">
+            <text id="text2677" src="janmadinam.xml#page0093"/>
+            <audio clipBegin="0:26:15.471" clipEnd="0:26:17.161" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2678">
+            <text id="text2678" src="janmadinam.xml#dtb2590"/>
+            <audio clipBegin="0:26:17.161" clipEnd="0:26:21.317" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2679">
+            <text id="text2679" src="janmadinam.xml#dtb2591"/>
+            <audio clipBegin="0:26:21.317" clipEnd="0:26:25.242" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2680">
+            <text id="text2680" src="janmadinam.xml#dtb2592"/>
+            <audio clipBegin="0:26:25.242" clipEnd="0:26:27.922" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2681">
+            <text id="text2681" src="janmadinam.xml#dtb2593"/>
+            <audio clipBegin="0:26:27.922" clipEnd="0:26:30.793" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2682">
+            <text id="text2682" src="janmadinam.xml#dtb2594"/>
+            <audio clipBegin="0:26:30.793" clipEnd="0:26:32.709" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2683">
+            <text id="text2683" src="janmadinam.xml#dtb2595"/>
+            <audio clipBegin="0:26:32.709" clipEnd="0:26:34.296" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2684">
+            <text id="text2684" src="janmadinam.xml#dtb2596"/>
+            <audio clipBegin="0:26:34.296" clipEnd="0:26:36.079" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2685">
+            <text id="text2685" src="janmadinam.xml#dtb2597"/>
+            <audio clipBegin="0:26:36.079" clipEnd="0:26:38.919" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2686">
+            <text id="text2686" src="janmadinam.xml#dtb2598"/>
+            <audio clipBegin="0:26:38.919" clipEnd="0:26:41.120" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2687">
+            <text id="text2687" src="janmadinam.xml#dtb2599"/>
+            <audio clipBegin="0:26:41.120" clipEnd="0:26:44.946" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2688">
+            <text id="text2688" src="janmadinam.xml#dtb2600"/>
+            <audio clipBegin="0:26:44.946" clipEnd="0:26:47.669" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2689">
+            <text id="text2689" src="janmadinam.xml#dtb2601"/>
+            <audio clipBegin="0:26:47.669" clipEnd="0:26:50.147" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2690">
+            <text id="text2690" src="janmadinam.xml#dtb2602"/>
+            <audio clipBegin="0:26:50.147" clipEnd="0:26:52.154" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2691">
+            <text id="text2691" src="janmadinam.xml#dtb2603"/>
+            <audio clipBegin="0:26:52.154" clipEnd="0:26:56.440" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2692">
+            <text id="text2692" src="janmadinam.xml#dtb2604"/>
+            <audio clipBegin="0:26:56.440" clipEnd="0:26:58.947" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2693">
+            <text id="text2693" src="janmadinam.xml#dtb2605"/>
+            <audio clipBegin="0:26:58.947" clipEnd="0:27:00.746" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2694">
+            <text id="text2694" src="janmadinam.xml#dtb2606"/>
+            <audio clipBegin="0:27:00.746" clipEnd="0:27:02.184" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2695">
+            <text id="text2695" src="janmadinam.xml#dtb2607"/>
+            <audio clipBegin="0:27:02.184" clipEnd="0:27:04.972" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2696">
+            <text id="text2696" src="janmadinam.xml#dtb2608"/>
+            <audio clipBegin="0:27:04.972" clipEnd="0:27:07.235" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2697">
+            <text id="text2697" src="janmadinam.xml#dtb2609"/>
+            <audio clipBegin="0:27:07.235" clipEnd="0:27:09.891" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2698">
+            <text id="text2698" src="janmadinam.xml#dtb2610"/>
+            <audio clipBegin="0:27:09.891" clipEnd="0:27:12.178" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2699">
+            <text id="text2699" src="janmadinam.xml#dtb2611"/>
+            <audio clipBegin="0:27:12.178" clipEnd="0:27:14.224" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2700">
+            <text id="text2700" src="janmadinam.xml#dtb2612"/>
+            <audio clipBegin="0:27:14.224" clipEnd="0:27:17.939" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2701">
+            <text id="text2701" src="janmadinam.xml#dtb2613"/>
+            <audio clipBegin="0:27:17.939" clipEnd="0:27:19.357" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2702">
+            <text id="text2702" src="janmadinam.xml#dtb2614"/>
+            <audio clipBegin="0:27:19.357" clipEnd="0:27:22" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2703">
+            <text id="text2703" src="janmadinam.xml#dtb2615"/>
+            <audio clipBegin="0:27:22" clipEnd="0:27:27.752" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2704">
+            <text id="text2704" src="janmadinam.xml#dtb2616"/>
+            <audio clipBegin="0:27:27.752" clipEnd="0:27:30.392" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2705">
+            <text id="text2705" src="janmadinam.xml#dtb2617"/>
+            <audio clipBegin="0:27:30.392" clipEnd="0:27:33.274" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2706">
+            <text id="text2706" src="janmadinam.xml#dtb2618"/>
+            <audio clipBegin="0:27:33.274" clipEnd="0:27:38.159" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2707">
+            <text id="text2707" src="janmadinam.xml#dtb2619"/>
+            <audio clipBegin="0:27:38.159" clipEnd="0:27:42.050" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2708">
+            <text id="text2708" src="janmadinam.xml#dtb2620"/>
+            <audio clipBegin="0:27:42.050" clipEnd="0:27:44.409" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2709">
+            <text id="text2709" src="janmadinam.xml#dtb2621"/>
+            <audio clipBegin="0:27:44.409" clipEnd="0:27:46.989" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2710">
+            <text id="text2710" src="janmadinam.xml#dtb2622"/>
+            <audio clipBegin="0:27:46.989" clipEnd="0:27:51.975" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2711">
+            <text id="text2711" src="janmadinam.xml#dtb2623"/>
+            <audio clipBegin="0:27:51.975" clipEnd="0:27:57.719" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2712">
+            <text id="text2712" src="janmadinam.xml#dtb2624"/>
+            <audio clipBegin="0:27:57.719" clipEnd="0:28:01.241" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2713">
+            <text id="text2713" src="janmadinam.xml#dtb2625"/>
+            <audio clipBegin="0:28:01.241" clipEnd="0:28:06.478" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2714">
+            <text id="text2714" src="janmadinam.xml#dtb2626"/>
+            <audio clipBegin="0:28:06.478" clipEnd="0:28:09.381" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2715">
+            <text id="text2715" src="janmadinam.xml#dtb2627"/>
+            <audio clipBegin="0:28:09.381" clipEnd="0:28:12.995" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2716">
+            <text id="text2716" src="janmadinam.xml#dtb2628"/>
+            <audio clipBegin="0:28:12.995" clipEnd="0:28:15.360" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2717">
+            <text id="text2717" src="janmadinam.xml#dtb2629"/>
+            <audio clipBegin="0:28:15.360" clipEnd="0:28:18.097" src="speechgen0010.mp3"/>
+         </par>
+         <par customTest="pagenum" id="tcp2718">
+            <text id="text2718" src="janmadinam.xml#page0094"/>
+            <audio clipBegin="0:28:18.097" clipEnd="0:28:20.004" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2719">
+            <text id="text2719" src="janmadinam.xml#dtb2630"/>
+            <audio clipBegin="0:28:20.004" clipEnd="0:28:26.178" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2720">
+            <text id="text2720" src="janmadinam.xml#dtb2631"/>
+            <audio clipBegin="0:28:26.178" clipEnd="0:28:28.843" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2721">
+            <text id="text2721" src="janmadinam.xml#dtb2632"/>
+            <audio clipBegin="0:28:28.843" clipEnd="0:28:32.868" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2722">
+            <text id="text2722" src="janmadinam.xml#dtb2633"/>
+            <audio clipBegin="0:28:32.868" clipEnd="0:28:37.670" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2723">
+            <text id="text2723" src="janmadinam.xml#dtb2634"/>
+            <audio clipBegin="0:28:37.670" clipEnd="0:28:39.711" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2724">
+            <text id="text2724" src="janmadinam.xml#dtb2635"/>
+            <audio clipBegin="0:28:39.711" clipEnd="0:28:41.851" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2725">
+            <text id="text2725" src="janmadinam.xml#dtb2636"/>
+            <audio clipBegin="0:28:41.851" clipEnd="0:28:44.767" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2726">
+            <text id="text2726" src="janmadinam.xml#dtb2637"/>
+            <audio clipBegin="0:28:44.767" clipEnd="0:28:47.750" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2727">
+            <text id="text2727" src="janmadinam.xml#dtb2638"/>
+            <audio clipBegin="0:28:47.750" clipEnd="0:28:50.206" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2728">
+            <text id="text2728" src="janmadinam.xml#dtb2639"/>
+            <audio clipBegin="0:28:50.206" clipEnd="0:28:52.856" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2729">
+            <text id="text2729" src="janmadinam.xml#dtb2640"/>
+            <audio clipBegin="0:28:52.856" clipEnd="0:28:55.191" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2730">
+            <text id="text2730" src="janmadinam.xml#dtb2641"/>
+            <audio clipBegin="0:28:55.191" clipEnd="0:29:01.305" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2731">
+            <text id="text2731" src="janmadinam.xml#dtb2642"/>
+            <audio clipBegin="0:29:01.305" clipEnd="0:29:04.427" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2732">
+            <text id="text2732" src="janmadinam.xml#dtb2643"/>
+            <audio clipBegin="0:29:04.427" clipEnd="0:29:08.548" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2733">
+            <text id="text2733" src="janmadinam.xml#dtb2644"/>
+            <audio clipBegin="0:29:08.548" clipEnd="0:29:12.397" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2734">
+            <text id="text2734" src="janmadinam.xml#dtb2645"/>
+            <audio clipBegin="0:29:12.397" clipEnd="0:29:15.783" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2735">
+            <text id="text2735" src="janmadinam.xml#dtb2646"/>
+            <audio clipBegin="0:29:15.783" clipEnd="0:29:18.649" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2736">
+            <text id="text2736" src="janmadinam.xml#dtb2647"/>
+            <audio clipBegin="0:29:18.649" clipEnd="0:29:21.679" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2737">
+            <text id="text2737" src="janmadinam.xml#dtb2648"/>
+            <audio clipBegin="0:29:21.679" clipEnd="0:29:26.844" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2738">
+            <text id="text2738" src="janmadinam.xml#dtb2649"/>
+            <audio clipBegin="0:29:26.844" clipEnd="0:29:29.075" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2739">
+            <text id="text2739" src="janmadinam.xml#dtb2650"/>
+            <audio clipBegin="0:29:29.075" clipEnd="0:29:30.904" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2740">
+            <text id="text2740" src="janmadinam.xml#dtb2651"/>
+            <audio clipBegin="0:29:30.904" clipEnd="0:29:32.678" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2741">
+            <text id="text2741" src="janmadinam.xml#dtb2652"/>
+            <audio clipBegin="0:29:32.678" clipEnd="0:29:39.395" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2742">
+            <text id="text2742" src="janmadinam.xml#dtb2653"/>
+            <audio clipBegin="0:29:39.395" clipEnd="0:29:43.516" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2743">
+            <text id="text2743" src="janmadinam.xml#dtb2654"/>
+            <audio clipBegin="0:29:43.516" clipEnd="0:29:50.709" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2744">
+            <text id="text2744" src="janmadinam.xml#dtb2655"/>
+            <audio clipBegin="0:29:50.709" clipEnd="0:29:55.044" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2745">
+            <text id="text2745" src="janmadinam.xml#dtb2656"/>
+            <audio clipBegin="0:29:55.044" clipEnd="0:29:57.156" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2746">
+            <text id="text2746" src="janmadinam.xml#dtb2657"/>
+            <audio clipBegin="0:29:57.156" clipEnd="0:29:59.514" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2747">
+            <text id="text2747" src="janmadinam.xml#dtb2658"/>
+            <audio clipBegin="0:29:59.514" clipEnd="0:30:04.059" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2748">
+            <text id="text2748" src="janmadinam.xml#dtb2659"/>
+            <audio clipBegin="0:30:04.059" clipEnd="0:30:15.342" src="speechgen0010.mp3"/>
+         </par>
+         <par customTest="pagenum" id="tcp2749">
+            <text id="text2749" src="janmadinam.xml#page0095"/>
+            <audio clipBegin="0:30:15.342" clipEnd="0:30:17.241" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2750">
+            <text id="text2750" src="janmadinam.xml#dtb2660"/>
+            <audio clipBegin="0:30:17.241" clipEnd="0:30:20.820" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2751">
+            <text id="text2751" src="janmadinam.xml#dtb2661"/>
+            <audio clipBegin="0:30:20.820" clipEnd="0:30:26.932" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2752">
+            <text id="text2752" src="janmadinam.xml#dtb2662"/>
+            <audio clipBegin="0:30:26.932" clipEnd="0:30:29.649" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2753">
+            <text id="text2753" src="janmadinam.xml#dtb2663"/>
+            <audio clipBegin="0:30:29.649" clipEnd="0:30:35.062" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2754">
+            <text id="text2754" src="janmadinam.xml#dtb2664"/>
+            <audio clipBegin="0:30:35.062" clipEnd="0:30:40.360" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2755">
+            <text id="text2755" src="janmadinam.xml#dtb2665"/>
+            <audio clipBegin="0:30:40.360" clipEnd="0:30:43.954" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2756">
+            <text id="text2756" src="janmadinam.xml#dtb2666"/>
+            <audio clipBegin="0:30:43.954" clipEnd="0:30:46.663" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2757">
+            <text id="text2757" src="janmadinam.xml#dtb2667"/>
+            <audio clipBegin="0:30:46.663" clipEnd="0:30:48.680" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2758">
+            <text id="text2758" src="janmadinam.xml#dtb2668"/>
+            <audio clipBegin="0:30:48.680" clipEnd="0:30:53.936" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2759">
+            <text id="text2759" src="janmadinam.xml#dtb2669"/>
+            <audio clipBegin="0:30:53.936" clipEnd="0:31:00.207" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2760">
+            <text id="text2760" src="janmadinam.xml#dtb2670"/>
+            <audio clipBegin="0:31:00.207" clipEnd="0:31:05.440" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2761">
+            <text id="text2761" src="janmadinam.xml#dtb2671"/>
+            <audio clipBegin="0:31:05.440" clipEnd="0:31:07.040" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2762">
+            <text id="text2762" src="janmadinam.xml#dtb2672"/>
+            <audio clipBegin="0:31:07.040" clipEnd="0:31:09.471" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2763">
+            <text id="text2763" src="janmadinam.xml#dtb2673"/>
+            <audio clipBegin="0:31:09.471" clipEnd="0:31:15.542" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2764">
+            <text id="text2764" src="janmadinam.xml#dtb2674"/>
+            <audio clipBegin="0:31:15.542" clipEnd="0:31:19.342" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2765">
+            <text id="text2765" src="janmadinam.xml#dtb2675"/>
+            <audio clipBegin="0:31:19.342" clipEnd="0:31:22.076" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2766">
+            <text id="text2766" src="janmadinam.xml#dtb2676"/>
+            <audio clipBegin="0:31:22.076" clipEnd="0:31:24.095" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2767">
+            <text id="text2767" src="janmadinam.xml#dtb2677"/>
+            <audio clipBegin="0:31:24.095" clipEnd="0:31:26.187" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2768">
+            <text id="text2768" src="janmadinam.xml#dtb2678"/>
+            <audio clipBegin="0:31:26.187" clipEnd="0:31:29.467" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2769">
+            <text id="text2769" src="janmadinam.xml#dtb2679"/>
+            <audio clipBegin="0:31:29.467" clipEnd="0:31:31.695" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2770">
+            <text id="text2770" src="janmadinam.xml#dtb2680"/>
+            <audio clipBegin="0:31:31.695" clipEnd="0:31:34.437" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2771">
+            <text id="text2771" src="janmadinam.xml#dtb2681"/>
+            <audio clipBegin="0:31:34.437" clipEnd="0:31:37.125" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2772">
+            <text id="text2772" src="janmadinam.xml#dtb2682"/>
+            <audio clipBegin="0:31:37.125" clipEnd="0:31:40.021" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2773">
+            <text id="text2773" src="janmadinam.xml#dtb2683"/>
+            <audio clipBegin="0:31:40.021" clipEnd="0:31:42.338" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2774">
+            <text id="text2774" src="janmadinam.xml#dtb2684"/>
+            <audio clipBegin="0:31:42.338" clipEnd="0:31:46.261" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2775">
+            <text id="text2775" src="janmadinam.xml#dtb2685"/>
+            <audio clipBegin="0:31:46.261" clipEnd="0:31:48.411" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2776">
+            <text id="text2776" src="janmadinam.xml#dtb2686"/>
+            <audio clipBegin="0:31:48.411" clipEnd="0:31:51.094" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2777">
+            <text id="text2777" src="janmadinam.xml#dtb2687"/>
+            <audio clipBegin="0:31:51.094" clipEnd="0:31:55.212" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2778">
+            <text id="text2778" src="janmadinam.xml#dtb2688"/>
+            <audio clipBegin="0:31:55.212" clipEnd="0:32:01.445" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2779">
+            <text id="text2779" src="janmadinam.xml#dtb2689"/>
+            <audio clipBegin="0:32:01.445" clipEnd="0:32:03.690" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2780">
+            <text id="text2780" src="janmadinam.xml#dtb2690"/>
+            <audio clipBegin="0:32:03.690" clipEnd="0:32:06.673" src="speechgen0010.mp3"/>
+         </par>
+         <par customTest="pagenum" id="tcp2781">
+            <text id="text2781" src="janmadinam.xml#page0096"/>
+            <audio clipBegin="0:32:06.673" clipEnd="0:32:08.567" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2782">
+            <text id="text2782" src="janmadinam.xml#dtb2691"/>
+            <audio clipBegin="0:32:08.567" clipEnd="0:32:12.541" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2783">
+            <text id="text2783" src="janmadinam.xml#dtb2692"/>
+            <audio clipBegin="0:32:12.541" clipEnd="0:32:16.977" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2784">
+            <text id="text2784" src="janmadinam.xml#dtb2693"/>
+            <audio clipBegin="0:32:16.977" clipEnd="0:32:21.216" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2785">
+            <text id="text2785" src="janmadinam.xml#dtb2694"/>
+            <audio clipBegin="0:32:21.216" clipEnd="0:32:23.880" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2786">
+            <text id="text2786" src="janmadinam.xml#dtb2695"/>
+            <audio clipBegin="0:32:23.880" clipEnd="0:32:28.541" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2787">
+            <text id="text2787" src="janmadinam.xml#dtb2696"/>
+            <audio clipBegin="0:32:28.541" clipEnd="0:32:32.278" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2788">
+            <text id="text2788" src="janmadinam.xml#dtb2697"/>
+            <audio clipBegin="0:32:32.278" clipEnd="0:32:36.481" src="speechgen0010.mp3"/>
+         </par>
+         <par id="tcp2789">
+            <text id="text2789" src="janmadinam.xml#dtb2698"/>
+            <audio clipBegin="0:32:36.481" clipEnd="0:32:43.885" src="speechgen0010.mp3"/>
+         </par>
+      </seq>
+	  </body>
+</smil>

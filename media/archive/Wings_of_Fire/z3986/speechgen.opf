@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE package
+  PUBLIC "+//ISBN 0-9673008-1-9//DTD OEB 1.2 Package//EN" "http://openebook.org/dtds/oeb-1.2/oebpkg12.dtd">
+<package xmlns="http://openebook.org/namespaces/oeb-package/1.0/" unique-identifier="uid">
+	  <metadata>
+	
+		    <dc-metadata xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/"
+                   xmlns:dc="http://purl.org/dc/elements/1.1/">
+			      <dc:Format>ANSI/NISO Z39.86-2005</dc:Format>
+		       <dc:Publisher>publisher_name</dc:Publisher>
+         <dc:Creator>creator_name</dc:Creator>
+         <dc:Title>Title</dc:Title>
+         <dc:Identifier>AUTO-UID-0239</dc:Identifier>
+         <dc:Date>2018-03-01</dc:Date>
+         <dc:Language>ml</dc:Language>
+         <dc:Identifier id="uid">AUTO-UID-0239</dc:Identifier>
+      </dc-metadata>
+	
+		    <x-metadata>
+			      <meta content="audioFullText" name="dtb:multimediaType"/>
+			      <meta content="DAISY Pipeline Narrator" name="dtb:narrator"/>
+		       <meta content="0:04:08.231" name="dtb:totalTime"/>
+         <meta content="audio,text" name="dtb:multimediaContent"/>
+         <meta content="2.0.0.0 Beta" name="dt:version"/>
+      </x-metadata>
+	
+	  </metadata>
+	
+	  <manifest>
+	     <item href="speechgen0001.smil" id="smil-1" media-type="application/smil"/>
+      <item href="speechgen0002.smil" id="smil-2" media-type="application/smil"/>
+      <item href="tpbnarrator.res" id="resource" media-type="application/x-dtbresource+xml"/>
+      <item href="dtbook.2005.basic.css" id="opf-3" media-type="text/css"/>
+      <item href="speechgen0002.mp3" id="opf-4" media-type="audio/mpeg"/>
+      <item href="speechgen0001.mp3" id="opf-5" media-type="audio/mpeg"/>
+      <item href="tpbnarrator_res.mp3" id="opf-6" media-type="audio/mpeg"/>
+      <item href="speechgen.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+      <item href="Wings_of_Fire.xml" id="opf-7" media-type="application/x-dtbook+xml"/>
+      <item href="speechgen.opf" id="opf-8" media-type="text/xml"/>
+   </manifest>
+	
+	  <spine>
+	     <itemref idref="smil-1"/>
+      <itemref idref="smil-2"/>
+   </spine>
+
+</package>
