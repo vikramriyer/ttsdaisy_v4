@@ -4,7 +4,7 @@ from .models import Book, Upload
 class AddBookForm(ModelForm):
     class Meta:
         model = Book
-        fields = ["zip_file", "title", "language", "is_audio_required"]
+        fields = ["zip_file", "title", "language", "author", "tags", "is_audio_required"]
 
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
