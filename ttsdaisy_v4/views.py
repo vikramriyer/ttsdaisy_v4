@@ -252,7 +252,7 @@ def get_pre_loaded_xml(ocrtext, page_position, bookname, page_number=1):
 def get_text_data_of_the_image(image, page_number, bookname, page_position='intermediate', media_url=''):
     print("image: {} and media_url: {} ".format(image, media_url))
     input_image = media_url + image
-    output_path = "/data/django_u/ocr_local/"
+    output_path = "/home/iiit/data/tts_out"
     payload = {"input_image": input_image, "output_path": output_path}
     j = {"xml": "The OCR could not be completed, there has been some error. "}
     print("The payload is: ",payload)

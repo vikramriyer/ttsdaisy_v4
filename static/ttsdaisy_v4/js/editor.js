@@ -179,6 +179,7 @@ function get_data_through_api(bookid){
 }
 
 function run_pipeline(bookname, xmldata, bookid) {
+  console.log("running the pipeline now.. hold tight.. ");
   url = "http://127.0.0.1:5000/run_daisy_pipeline/";
   data = {'bookname': bookname, 'xmldata': xmldata, 'bookid': bookid};
   $.ajax({
@@ -236,6 +237,7 @@ $("input[name=upload_image]").change(function () {
 });
 
 function save_current_page(bookid, pagenumber, xmldata) {
+  console.log("Marking the page as processed.");
   url = "/api/mark_page_as_processed/";
   data = {'bookid': bookid, 'pagenumber': pagenumber,'xmldata': xmldata};
   $.ajax({
@@ -268,11 +270,13 @@ $("#savePage").click(function(){
 
 $("#viewFullXml").click(function(){
   // api call to save current page
+  console.log("getting the book information. ");
   var bookid = get_bookid();
   var pagenumber = get_pagenumber();
   var xmldata = get_data();
 
   save_current_page(bookid, pagenumber, xmldata);
+  console.log("The page has been processed. ");
 
   // call load_full_xml_to_edito
   load_full_xml_to_editor("save");
@@ -289,5 +293,6 @@ $("#convert").click(function() {
   console.log("Running the pipeline.");
   run_pipeline(bookname, data, bookid);
 
+  console.log("pipeline successfully run, check the audio book back in sometime. ");
   window.location = "/user_home/";
 });
