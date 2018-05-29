@@ -124,7 +124,7 @@ USE_TZ = True
 
 STATIC_URL = "/static/"
 STATICFILES_DIRS = [os.path.join(BASE_DIR, "static")]
-STATIC_ROOT = "/data/django_u/django_out"
+STATIC_ROOT = "/django_out/"
 
 LOGIN_REDIRECT_URL = "home"
 LOGOUT_REDIRECT_URL = "thanks"
