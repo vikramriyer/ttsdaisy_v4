@@ -13,6 +13,13 @@ def concatenate_audio(dir_path, output_fir_path):
         shutil.copyfileobj(open(file,'rb'), destination)
     destination.close()
 
+def get_tts(input_text):
+    """
+    get input_text, give a service call and get path of the audio file
+    espeak is user for now, will be changed soon
+    """
+    return audio_path
+
 # print(get_length("/home/raavan/Music/Alaipaydue Kanada Adi - TamilWire.com.mp3"))
-concatenate_audio("/home/raavan/Music/")
+# concatenate_audio("/home/raavan/Music/")
 # print(os.path.dirname(os.path.realpath(__file__)))
