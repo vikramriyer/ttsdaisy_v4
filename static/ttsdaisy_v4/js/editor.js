@@ -180,7 +180,7 @@ function get_data_through_api(bookid){
 
 function run_pipeline(bookname, xmldata, bookid) {
   console.log("running the pipeline now.. hold tight.. ");
-  url = "http://127.0.0.1:5000/run_daisy_pipeline/";
+  url = "http://10.2.16.111:5000/run_daisy_pipeline/";
   data = {'bookname': bookname, 'xmldata': xmldata, 'bookid': bookid};
   $.ajax({
       type:"POST",
