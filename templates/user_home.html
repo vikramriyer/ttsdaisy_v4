@@ -29,7 +29,7 @@
             <td>
               <a href="{% url 'book_details' pk=book.pk %}">{{ book.get_display_name }}</a>
               {% if book.completed == True%}
-                <a href="http://127.0.0.1:8000/media/archive/{{ book.title }}.zip">
+                <a href="http://10.2.16.111:8000/media/archive/{{ book.title }}.zip">
                     <button style="margin-right:5px;" type="button" class="btn float-right btn-default btn-sm">
                     Download</button>
                 </a>
