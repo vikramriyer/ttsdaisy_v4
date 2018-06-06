@@ -256,10 +256,16 @@ def get_text_data_of_the_image(image, page_number, bookname, page_position='inte
     payload = {"input_image": input_image, "output_path": output_path}
     j = {"xml": "The OCR could not be completed, there has been some error. "}
     print("The payload is: ",payload)
-    url = "http://127.0.0.1:5000/get_ocr_output"
+    #url = "http://127.0.0.1:5000/get_ocr_output"
+    url = "http://10.2.16.111:5000/get_ocr_output"
+    session = requests.Session()
+    session.trust_env = False
     try:
-        r = requests.post(url, data=payload)
+        print("Got the request. ")
+        r = session.post(url, data=payload)
+        print("Response: ", r.content.decode())
         j = json.loads(r.text)
+        print(j)
         j["xml"] = get_pre_loaded_xml(j["ocr_text"], page_position, bookname, page_number)
     except Exception as e:
         print("Error message is: " + str(e))
