@@ -54,7 +54,7 @@ def add_book(request):
                     all_files.extend(files_)
             # page_number = 1
             for f in all_files:
-                page_number = int(f.split("/")[-1].split(".")[0].split("_")[-1])
+                page_number = int(f.split("/")[-1].split(".")[1].split("_")[-1])
                 print(f)
                 upload = Upload()
                 upload.book = book
