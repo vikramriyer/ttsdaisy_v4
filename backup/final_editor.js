@@ -7,7 +7,7 @@ var data = "the new text here. "; // This should be fetched from db and copied
 editor.setValue(data);
 
 function run_pipeline(bookname, xmldata) {
-  url = "http://127.0.0.1:5000/run_daisy_pipeline/";
+  url = "http://10.2.16.111:5000/run_daisy_pipeline/";
   data = {'bookname': bookname, 'xmldata': xmldata};
   $.ajax({
       type:"POST",
