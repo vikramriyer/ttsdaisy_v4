@@ -417,6 +417,7 @@ def mark_page_as_processed(request):
     try:
         upload = Upload.objects.get(book__id=book_id, page_number=page_number)
         upload.processed = True
+        upload.processed_by = request.user.id
         upload.xmldata = xml_data
         upload.save()
         append_xml_data(book_id, xml_data)
