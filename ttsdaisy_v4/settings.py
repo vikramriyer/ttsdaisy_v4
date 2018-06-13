@@ -25,7 +25,8 @@ SECRET_KEY = '86wz67j)#p@^ocmi20m6zr^1bw9#kzvn4n2a=db+!20=1d!r!i'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost','10.1.128.142','14.139.82.6','iiit.ac.in', '127.0.0.1', '10.2.16.111', '10.0.0.0']
+ALLOWED_HOSTS = ['localhost','10.1.128.142','14.139.82.6','iiit.ac.in', '127.0.0.1',
+                '10.2.16.111', '10.0.0.0', '10.2.132.8']
 
 
 # Application definition
