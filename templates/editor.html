@@ -112,6 +112,10 @@
 
     <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
 
+    <script>
+    var dict = "{% static "ttsdaisy_v4/dicts/en_US.dic" %}"
+    var aff = "{% static "ttsdaisy_v4/dicts/en_US.aff" %}"
+    </script>
     <!-- jQuery !-->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"> </script>
     <!-- jQuery UI !-->
@@ -121,6 +125,8 @@
     <script src="{% static "ace-builds/src-noconflict/ace.js"%}" type="text/javascript" charset="utf-8"></script>
     <script src="{% static "ttsdaisy_v4/js/editor.js"%}" type="text/javascript" ></script>
     <script src="{% static "ttsdaisy_v4/js/FileSaver.js"%}" type="text/javascript" ></script>
+    <script src="{% static "ttsdaisy_v4/js/typo.js"%}" type="text/javascript" ></script>
+    <script src="{% static "ttsdaisy_v4/js/spellcheck_ace.js"%}" type="text/javascript" ></script>
 
 <!-- http://flaviusim.com/blog/AJAX-Autocomplete-Search-with-Django-and-jQuery/ -->
 <!-- https://sweetalert.js.org/guides/ -->

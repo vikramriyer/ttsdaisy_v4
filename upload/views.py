@@ -58,7 +58,7 @@ def add_book(request):
                 print(f)
                 upload = Upload()
                 upload.book = book
-                upload.uploader = request.user
+                upload.processed_by = request.user
                 upload.image = f
                 upload.language = lang
                 upload.title = title
