@@ -58,7 +58,7 @@ class Book(models.Model):
     code = models.CharField(max_length=20, default='')
     title = models.CharField(max_length=255, default='')
     author = models.CharField(max_length=255, blank=True)
-    zip_file = models.FileField(upload_to=get_zip_upload_path, blank=True, validators=[validate_file_field])
+    zip_file = models.FileField(upload_to=get_zip_upload_path, blank=True, max_length=500, validators=[validate_file_field])
     language = models.ForeignKey(Language, default=1)
     year = models.CharField(max_length=4, blank=True,
                             validators=[RegexValidator(regex=r'^\d{4}$',
