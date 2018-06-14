@@ -85,6 +85,7 @@ class EditorPage(TemplateView):
                 page_number = Upload.objects.filter(book__id=bookid).count()
         except Exception as e:
             print("An error occured when finding the page number, taking default: ", e)
+            page_number = Upload.objects.filter(book__id=bookid).count()
         count = Upload.objects.filter(book__id=bookid).count()
         if page_number == 1:
             page_position = 'first'
@@ -413,17 +414,17 @@ def mark_page_as_processed(request):
     book_id = request.POST.get('bookid', '')
     page_number = request.POST.get('pagenumber', '')
     xml_data = request.POST.get('xmldata', '')
-    print("Page number from request is: ",page_number)
     try:
+        print("Page number from request is: ",page_number)
         upload = Upload.objects.get(book__id=book_id, page_number=page_number)
         upload.processed = True
-        upload.processed_by = request.user.id
         upload.xmldata = xml_data
         upload.save()
         append_xml_data(book_id, xml_data)
-    except Exception:
+    except Exception as e:
         print("The record for book_id='{}' and page_number='{}' does not exist. "
               .format(book_id, page_number))
+        print("Error message for saving book is",str(e))
     print("The page '{}' has been saved successfully. ".format(page_number))
     mimetype = 'application/json'
     return HttpResponse(json.dumps({"url": "/edit/?bookid="+book_id}), mimetype)

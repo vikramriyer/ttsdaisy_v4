@@ -58,7 +58,6 @@ def add_book(request):
                 print(f)
                 upload = Upload()
                 upload.book = book
-                upload.processed_by = request.user
                 upload.image = f
                 upload.language = lang
                 upload.title = title
@@ -84,7 +83,6 @@ class AddPage(CreateView):
     template_name = "add_page.html"
 
     def form_valid(self, form):
-        form.instance.uploader = self.request.user
         form.instance.page_number = get_page_number(form.instance.book)
         return super().form_valid(form)
 
@@ -101,7 +99,6 @@ class AddSinglePageBook(CreateView):
     template_name = "add_single_page.html"
 
     def form_valid(self, form):
-        form.instance.uploader = self.request.user or 'Anonymous'
         form.instance.page_number = 1
         return super().form_valid(form)
 
