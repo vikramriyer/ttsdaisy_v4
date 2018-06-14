@@ -72,6 +72,7 @@ class Book(models.Model):
     completed = models.BooleanField(default=False)
     daisy_xml = models.TextField(blank=True)
     created_by = models.ForeignKey('auth.User', null=True)
+    #uploader = models.ForeignKey('auth.User')
 
     class Meta:
         ordering = ['-created']
@@ -121,7 +122,7 @@ class Upload(models.Model):
     )
     image = models.FileField(upload_to=get_image_upload_path)
     xmldata = models.TextField(blank=True)
-    processed_by= models.ForeignKey('auth.User')
+    processed_by= models.ForeignKey('auth.User', blank=True)
     language = models.ForeignKey(Language, default=1)
     book = models.ForeignKey(Book, default=1)
     page_number = models.PositiveSmallIntegerField(null=True)
