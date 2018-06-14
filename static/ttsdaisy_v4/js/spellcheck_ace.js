@@ -1,7 +1,7 @@
 // You also need to load in typo.js and jquery.js
 
 // You should configure these classes.
-var editor = "editor"; // This should be the id of your editor element.
+var d_editor = "editor"; // This should be the id of your editor element.
 var lang = "en_US";
 var dicPath = dict;
 var affPath = aff;
@@ -63,7 +63,7 @@ function spell_check() {
   	return;
   }
   currently_spellchecking = true;
-  var session = ace.edit(editor).getSession();
+  var session = ace.edit(d_editor).getSession();
 
   // Clear the markers.
   for (var i in markers_present) {
@@ -96,7 +96,7 @@ function spell_check() {
 }
 
 function enable_spellcheck() {
-  ace.edit(editor).getSession().on('change', function(e) {
+  ace.edit(d_editor).getSession().on('change', function(e) {
   	contents_modified = true;
 	});
 	setInterval(spell_check, 500);
